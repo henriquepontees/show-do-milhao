@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const q=require\\('./src/data/questions.json'\\); let total=0; const allIds=new Set\\(\\); let problems=0; for\\(const f of ['1','2','3','4']\\){const arr=q[f]; total+=arr.length; const c={}; for\\(const it of arr\\){ if\\(!it.id||!it.enunciado||!Array.isArray\\(it.alternativas\\)||it.alternativas.length!==4||typeof it.correta!=='number'||it.correta<0||it.correta>3\\){console.log\\('PROBLEMA:',it.id\\);problems++;} if\\(allIds.has\\(it.id\\)\\){console.log\\('ID DUP:',it.id\\);problems++;} allIds.add\\(it.id\\); if\\(new Set\\(it.alternativas\\).size!==4\\){console.log\\('Alt dup em',it.id\\);problems++;} const t=it.id.split\\('-'\\)[0]; c[t]=\\(c[t]||0\\)+1;} console.log\\('Fase',f,'->',arr.length,JSON.stringify\\(c\\)\\);} console.log\\('TOTAL:',total,'| problemas:',problems\\);\")",
+      "Bash(npm run *)",
+      "Bash(node -e \"const q=require\\('./src/data/questions.json'\\); let total=0; const allIds=new Set\\(\\); let problems=0; for\\(const f of ['1','2','3','4']\\){const arr=q[f]; total+=arr.length; for\\(const it of arr\\){ if\\(!it.id||!it.enunciado||!Array.isArray\\(it.alternativas\\)||it.alternativas.length!==4||typeof it.correta!=='number'||it.correta<0||it.correta>3\\){console.log\\('PROBLEMA:',it.id\\);problems++;} if\\(allIds.has\\(it.id\\)\\){console.log\\('ID DUP:',it.id\\);problems++;} allIds.add\\(it.id\\); if\\(new Set\\(it.alternativas\\).size!==4\\){console.log\\('Alt dup em',it.id\\);problems++;} } } console.log\\('TOTAL:',total,'| problemas:',problems,'| temas/fase:', Object.keys\\(q['1'].reduce\\(\\(a,it\\)=>{a[it.id.split\\('-'\\)[0]]=1;return a;},{}\\)\\).length\\);\")"
+    ]
+  }
+}

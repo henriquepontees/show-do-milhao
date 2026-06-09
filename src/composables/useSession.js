@@ -1,0 +1,50 @@
+import { reactive } from 'vue'
+import questions from '../data/questions.json'
+
+/**
+ * Sessão de jogo em memória (não persiste entre recarregamentos da página).
+ * Mantém, por fase, o conjunto de ids de perguntas já servidas para evitar
+ * repetição dentro da mesma sessão.
+ *
+ * O estado vive no escopo do módulo (singleton), então é compartilhado por
+ * todos os componentes que importam este composable.
+ */
+
+export const PHASES = ['1', '2', '3', '4']
+
+// Conjunto de ids já vistos por fase. reactive() para que a UI reaja ao reset.
+const seen = reactive({
+  1: new Set(),
+  2: new Set(),
+  3: new Set(),
+  4: new Set(),
+})
+
+/**
+ * Sorteia uma pergunta ainda não vista da fase informada.
+ * @param {string|number} phase - número da fase (1–4)
+ * @returns {object|null} a pergunta sorteada, ou null se a fase esgotou.
+ */
+function drawQuestion(phase) {
+  const pool = questions[phase] || []
+  const remaining = pool.filter((q) => !seen[phase].has(q.id))
+
+  if (remaining.length === 0) return null
+
+  const picked = remaining[Math.floor(Math.random() * remaining.length)]
+  seen[phase].add(picked.id)
+  return picked
+}
+
+/**
+ * Zera o histórico de perguntas vistas em todas as fases (nova sessão).
+ */
+function resetSession() {
+  for (const phase of PHASES) {
+    seen[phase].clear()
+  }
+}
+
+export function useSession() {
+  return { seen, drawQuestion, resetSession }
+}
