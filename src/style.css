@@ -1,13 +1,67 @@
+/* =========================================================================
+   Tema único "Laboratório" + tokens base.
+   Princípios aplicados (UI/UX 2026): escala de espaçamento 8pt, glassmorphism
+   contido (blur sutil + bom contraste), sombras suaves em vez de glow forte,
+   hierarquia tipográfica clara. Componentes consomem apenas variáveis.
+   ========================================================================= */
+
 :root {
-  --bg: #0b1437;
-  --bg-card: #13205a;
-  --bg-card-2: #1b2c7a;
-  --border: #2d3f9e;
-  --text: #f5f7ff;
-  --text-muted: #aab4e6;
-  --accent: #f5c518;
+  /* ---- Paleta (Laboratório: ciano holográfico, calmo e premium) ---- */
+  --bg: #061119;
+  --bg-grad: radial-gradient(circle at 50% -15%, #0b3340 0%, #061119 55%, #03090e 100%);
+
+  /* Superfícies de vidro */
+  --surface: rgba(13, 33, 43, 0.55);
+  --surface-2: rgba(20, 46, 58, 0.7);
+  --glass-bg: rgba(11, 28, 37, 0.5);
+  --glass-blur: 12px;
+
+  /* Texto */
+  --text: #eaf6fa;
+  --text-muted: #8fb0bc;
+  --text-faint: #5e7c88;
+
+  /* Acento */
+  --accent: #22d3ee;
+  --accent-2: #7ce7f7;
+  --accent-contrast: #02181e;
+
+  /* Dourado (títulos e bordas dos cards de fase) */
+  --gold: #f5c518;
+  --gold-2: #ffe08a;
+  --gold-soft: #e7cf94;
+  --gold-border: rgba(245, 197, 24, 0.45);
+  --gold-border-strong: rgba(245, 197, 24, 0.85);
+  --glow-gold: 0 0 20px -6px color-mix(in srgb, var(--gold) 75%, transparent);
+
+  /* Estados */
   --green: #16a34a;
   --green-border: #22c55e;
+  --red: #f0556d;
+
+  /* Bordas / foco */
+  --border: rgba(120, 175, 190, 0.16);
+  --border-strong: rgba(34, 211, 238, 0.4);
+  --ring: rgba(34, 211, 238, 0.55);
+  --grid: rgba(34, 211, 238, 0.045);
+
+  /* Sombras suaves (soft-flat) — profundidade sem exagero */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.25);
+  --shadow-md: 0 10px 30px -12px rgba(0, 0, 0, 0.55);
+  /* Glow contido: usado só em destaques (foco, acerto, alvo). */
+  --glow: 0 0 18px -6px color-mix(in srgb, var(--accent) 70%, transparent);
+
+  /* Escala de espaçamento 8pt */
+  --space-1: 0.25rem; /* 4  */
+  --space-2: 0.5rem; /*  8  */
+  --space-3: 0.75rem; /* 12 */
+  --space-4: 1rem; /*    16 */
+  --space-5: 1.5rem; /*  24 */
+  --space-6: 2rem; /*    32 */
+  --space-7: 3rem; /*    48 */
+
+  --radius: 14px;
+  --radius-sm: 10px;
 
   color-scheme: dark;
 }
@@ -23,15 +77,37 @@ body {
 }
 
 body {
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  background: radial-gradient(circle at 50% 0%, #1a2a6c 0%, var(--bg) 60%);
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: var(--bg);
+  background-image: var(--bg-grad);
+  background-attachment: fixed;
   color: var(--text);
+  line-height: 1.5;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Grid holográfico bem sutil ao fundo. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  pointer-events: none;
+  background-image:
+    linear-gradient(var(--grid) 1px, transparent 1px),
+    linear-gradient(90deg, var(--grid) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(circle at 50% 25%, #000 0%, transparent 78%);
+  -webkit-mask-image: radial-gradient(circle at 50% 25%, #000 0%, transparent 78%);
 }
 
 #app {
-  max-width: 720px;
+  position: relative;
+  max-width: 1040px;
   margin: 0 auto;
-  padding: 2rem 1.25rem 3rem;
+  padding: var(--space-6) var(--space-5) var(--space-7);
   min-height: 100vh;
 }
 
@@ -42,5 +118,42 @@ button {
 
 button:disabled {
   cursor: not-allowed;
-  opacity: 0.5;
+  opacity: 0.45;
+}
+
+/* Foco visível e acessível em qualquer elemento interativo. */
+:where(button, a, [tabindex]):focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+/* Superfície de vidro reutilizável (glassmorphism contido). */
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur)) saturate(135%);
+  -webkit-backdrop-filter: blur(var(--glass-blur)) saturate(135%);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: 200% center;
+  }
+  100% {
+    background-position: -200% center;
+  }
+}
+
+/* Acessibilidade: reduz animações quando solicitado. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
 }

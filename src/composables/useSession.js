@@ -1,4 +1,4 @@
-import { reactive } from 'vue'
+import { reactive, ref } from 'vue'
 import questions from '../data/questions.json'
 
 /**
@@ -19,6 +19,29 @@ const seen = reactive({
   3: new Set(),
   4: new Set(),
 })
+
+// Progressão da escada de prêmios.
+// level = índice do degrau já conquistado (-1 = nenhum ainda); score = R$ acumulado.
+const level = ref(-1)
+const score = ref(0)
+
+// Escada de prêmios (R$). Exportada para o componente PrizeLadder e o cálculo de score.
+export const PRIZES = [
+  1000, 2000, 3000, 4000, 5000,
+  10000, 20000, 30000, 40000, 50000, 60000, 70000, 80000, 90000, 100000,
+  200000, 300000, 400000, 500000, 1000000,
+]
+
+/**
+ * Registra o resultado de uma resposta, avançando a escada em caso de acerto.
+ * @param {boolean} correct - se o jogador acertou.
+ */
+function registerResult(correct) {
+  if (correct && level.value < PRIZES.length - 1) {
+    level.value += 1
+    score.value = PRIZES[level.value]
+  }
+}
 
 /**
  * Sorteia uma pergunta ainda não vista da fase informada.
@@ -43,8 +66,10 @@ function resetSession() {
   for (const phase of PHASES) {
     seen[phase].clear()
   }
+  level.value = -1
+  score.value = 0
 }
 
 export function useSession() {
-  return { seen, drawQuestion, resetSession }
+  return { seen, level, score, drawQuestion, resetSession, registerResult, PRIZES }
 }

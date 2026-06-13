@@ -1,6 +1,8 @@
 <script setup>
 import { ref } from 'vue'
 import { useSession } from './composables/useSession.js'
+import BackgroundFX from './components/BackgroundFX.vue'
+import PrizeLadder from './components/PrizeLadder.vue'
 import PhaseSelect from './components/PhaseSelect.vue'
 import QuestionView from './components/QuestionView.vue'
 
@@ -38,45 +40,120 @@ function onReset() {
 </script>
 
 <template>
+  <BackgroundFX />
+
   <header class="header">
-    <h1>Show do Milhão</h1>
-    <p class="subtitle">Escolha uma fase e responda a pergunta.</p>
+    <p class="eyebrow">Quiz interativo</p>
+    <h1 class="title">Show do Milhão</h1>
+    <p class="subtitle">Escolha uma fase, suba na escada e fature o prêmio.</p>
   </header>
 
-  <main>
-    <PhaseSelect
-      v-if="screen === 'phase'"
-      :exhausted-phase="exhaustedPhase"
-      @select="onSelectPhase"
-      @reset="onReset"
-    />
+  <div class="layout">
+    <main class="stage">
+      <Transition name="screen" mode="out-in">
+        <PhaseSelect
+          v-if="screen === 'phase'"
+          key="phase"
+          :exhausted-phase="exhaustedPhase"
+          @select="onSelectPhase"
+          @reset="onReset"
+        />
 
-    <QuestionView
-      v-else-if="screen === 'question'"
-      :question="currentQuestion"
-      :phase="currentPhase"
-      @back="backToPhases"
-      @continue="backToPhases"
-    />
-  </main>
+        <QuestionView
+          v-else-if="screen === 'question'"
+          key="question"
+          :question="currentQuestion"
+          :phase="currentPhase"
+          @back="backToPhases"
+          @continue="backToPhases"
+        />
+      </Transition>
+    </main>
+
+    <PrizeLadder class="side" />
+  </div>
 </template>
 
 <style scoped>
 .header {
   text-align: center;
-  margin-bottom: 2rem;
+  margin: var(--space-4) 0 var(--space-6);
 }
 
-h1 {
+.eyebrow {
+  margin: 0 0 var(--space-2);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.title {
   margin: 0;
-  font-size: 2.25rem;
-  letter-spacing: 0.5px;
-  color: var(--accent);
-  text-shadow: 0 2px 12px rgba(245, 197, 24, 0.25);
+  font-size: clamp(2rem, 6vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  line-height: 1.05;
+  background: linear-gradient(
+    100deg,
+    var(--gold) 0%,
+    var(--gold-2) 40%,
+    #fff7df 50%,
+    var(--gold-2) 60%,
+    var(--gold) 100%
+  );
+  background-size: 220% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 7s linear infinite;
 }
 
 .subtitle {
-  margin: 0.5rem 0 0;
-  color: var(--text-muted);
+  margin: var(--space-3) auto 0;
+  max-width: 36ch;
+  color: var(--gold-soft);
+  font-size: 1rem;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 264px;
+  gap: var(--space-6);
+  align-items: start;
+}
+
+.side {
+  position: sticky;
+  top: var(--space-4);
+}
+
+@media (max-width: 820px) {
+  .layout {
+    grid-template-columns: 1fr;
+    gap: var(--space-5);
+  }
+
+  .side {
+    position: static;
+    order: -1;
+  }
+}
+
+/* Transição entre telas. */
+.screen-enter-active,
+.screen-leave-active {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.screen-enter-from {
+  opacity: 0;
+  transform: translateY(20px) scale(0.98);
+}
+
+.screen-leave-to {
+  opacity: 0;
+  transform: translateY(-20px) scale(0.98);
 }
 </style>
