@@ -5039,6 +5039,906 @@
       "enunciado": "Qual instrumento de corda é o principal na roda de capoeira?",
       "alternativas": ["Cavaquinho", "Berimbau", "Viola", "Pandeiro"],
       "correta": 1
+    },
+    {
+      "id": "reg-f1-01",
+      "enunciado": "Qual é a capital do estado da Bahia?",
+      "alternativas": ["Salvador", "Recife", "Fortaleza", "Maceió"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f1-02",
+      "enunciado": "Qual é a capital de Minas Gerais?",
+      "alternativas": ["Vitória", "Belo Horizonte", "Goiânia", "Curitiba"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f1-03",
+      "enunciado": "Qual é a capital do Amazonas?",
+      "alternativas": ["Belém", "Boa Vista", "Manaus", "Porto Velho"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f1-04",
+      "enunciado": "Qual é a capital do Brasil?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Salvador", "Brasília"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f1-05",
+      "enunciado": "Em qual estado ficam o Pão de Açúcar e o Cristo Redentor?",
+      "alternativas": ["Rio de Janeiro", "São Paulo", "Bahia", "Espírito Santo"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f1-06",
+      "enunciado": "Em qual estado fica a famosa cidade de Salvador, com seu carnaval?",
+      "alternativas": ["Pernambuco", "Bahia", "Ceará", "Sergipe"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f1-07",
+      "enunciado": "Em qual estado ficam as Cataratas do Iguaçu?",
+      "alternativas": ["Santa Catarina", "Rio Grande do Sul", "Paraná", "São Paulo"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f1-08",
+      "enunciado": "Qual é o estado mais ao sul do Brasil?",
+      "alternativas": ["Paraná", "Santa Catarina", "São Paulo", "Rio Grande do Sul"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f1-09",
+      "enunciado": "Qual é o maior estado do Brasil em área?",
+      "alternativas": ["Amazonas", "Pará", "Mato Grosso", "Bahia"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f1-10",
+      "enunciado": "Qual é a capital do Ceará?",
+      "alternativas": ["Natal", "Fortaleza", "São Luís", "Teresina"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f1-11",
+      "enunciado": "Qual é a capital de Pernambuco?",
+      "alternativas": ["Maceió", "João Pessoa", "Recife", "Aracaju"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f1-12",
+      "enunciado": "Em qual estado é tradição tomar chimarrão e cultuar a vida gaúcha?",
+      "alternativas": ["Paraná", "Santa Catarina", "Mato Grosso", "Rio Grande do Sul"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f1-13",
+      "enunciado": "Qual é a capital do Paraná?",
+      "alternativas": ["Curitiba", "Florianópolis", "Porto Alegre", "Joinville"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f1-14",
+      "enunciado": "Qual é a capital de Santa Catarina?",
+      "alternativas": ["Curitiba", "Florianópolis", "Blumenau", "Joinville"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f1-15",
+      "enunciado": "Qual é a capital do Pará?",
+      "alternativas": ["Manaus", "Macapá", "Belém", "Boa Vista"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f1-16",
+      "enunciado": "Em qual região do Brasil fica a maior parte da Floresta Amazônica?",
+      "alternativas": ["Sul", "Sudeste", "Nordeste", "Norte"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f1-17",
+      "enunciado": "Qual é a capital de Goiás?",
+      "alternativas": ["Goiânia", "Palmas", "Cuiabá", "Brasília"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f1-18",
+      "enunciado": "O frevo e o maracatu são tradições típicas de qual estado?",
+      "alternativas": ["Bahia", "Pernambuco", "Ceará", "Maranhão"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f1-19",
+      "enunciado": "Qual é a capital do Rio Grande do Sul?",
+      "alternativas": ["Florianópolis", "Curitiba", "Porto Alegre", "Caxias do Sul"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f1-20",
+      "enunciado": "Em qual região do Brasil fica Brasília?",
+      "alternativas": ["Sudeste", "Norte", "Nordeste", "Centro-Oeste"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f1-21",
+      "enunciado": "Quantas regiões tem o Brasil?",
+      "alternativas": ["5", "4", "6", "3"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f1-22",
+      "enunciado": "Em qual estado ficam Ouro Preto e várias cidades históricas do Barroco?",
+      "alternativas": ["Bahia", "Minas Gerais", "Goiás", "Pernambuco"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f1-23",
+      "enunciado": "Em qual estado fica a praia de Copacabana?",
+      "alternativas": ["São Paulo", "Bahia", "Rio de Janeiro", "Espírito Santo"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f1-24",
+      "enunciado": "Qual é a capital de Alagoas?",
+      "alternativas": ["Recife", "Aracaju", "Natal", "Maceió"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f1-25",
+      "enunciado": "Qual é a capital do estado de São Paulo?",
+      "alternativas": ["São Paulo", "Campinas", "Santos", "Ribeirão Preto"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f1-26",
+      "enunciado": "O Pantanal, grande planície alagável, fica em quais estados?",
+      "alternativas": ["Bahia e Sergipe", "Mato Grosso e Mato Grosso do Sul", "Pará e Amapá", "Ceará e Piauí"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f1-27",
+      "enunciado": "Quantos estados o Brasil possui (sem contar o Distrito Federal)?",
+      "alternativas": ["20", "24", "26", "30"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f1-28",
+      "enunciado": "Em qual estado está a cidade do acarajé e do axé music, no Nordeste?",
+      "alternativas": ["Ceará", "Pernambuco", "Maranhão", "Bahia"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f1-29",
+      "enunciado": "Qual é a capital do estado do Rio de Janeiro?",
+      "alternativas": ["Rio de Janeiro", "Niterói", "Petrópolis", "Búzios"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f1-30",
+      "enunciado": "A Região Sul do Brasil é formada por quais estados?",
+      "alternativas": ["SP, RJ e MG", "Paraná, Santa Catarina e Rio Grande do Sul", "BA, SE e AL", "GO, MT e MS"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f1-01",
+      "enunciado": "Qual cantor é chamado de \"Rei\" e foi o maior nome da Jovem Guarda?",
+      "alternativas": ["Roberto Carlos", "Erasmo Carlos", "Wando", "Odair José"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f1-02",
+      "enunciado": "A bossa nova, gênero suave e elegante, surgiu por volta de qual época?",
+      "alternativas": ["Anos 1980", "Anos 1950-60", "Anos 1990", "Anos 2010"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f1-03",
+      "enunciado": "A banda Legião Urbana fez sucesso principalmente em qual década?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 1980", "Anos 2000"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f1-04",
+      "enunciado": "Os Mamonas Assassinas estouraram em qual década?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 1980", "Anos 1990"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f1-05",
+      "enunciado": "Qual ritmo é o som tradicional do Carnaval do Rio de Janeiro?",
+      "alternativas": ["Samba", "Forró", "Frevo", "Axé"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f1-06",
+      "enunciado": "Quem é considerado o \"rei do forró\" e do baião?",
+      "alternativas": ["Roberto Carlos", "Luiz Gonzaga", "Dominguinhos", "Jackson do Pandeiro"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f1-07",
+      "enunciado": "O movimento da Tropicália, com Caetano Veloso e Gilberto Gil, foi em qual década?",
+      "alternativas": ["Anos 1940", "Anos 1950", "Anos 1960", "Anos 1990"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f1-08",
+      "enunciado": "O axé music, com Ivete Sangalo e Daniela Mercury, explodiu na Bahia em qual década?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 1980", "Anos 1990"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f1-09",
+      "enunciado": "A dupla que gravou \"Evidências\" e marcou o sertanejo é...",
+      "alternativas": ["Chitãozinho & Xororó", "Sandy & Junior", "Jorge & Mateus", "Zezé Di Camargo & Luciano"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f1-10",
+      "enunciado": "A Jovem Guarda foi um movimento musical jovem de qual década?",
+      "alternativas": ["Anos 1940", "Anos 1960", "Anos 1980", "Anos 2000"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f1-11",
+      "enunciado": "Cazuza e a banda Barão Vermelho fazem parte do rock brasileiro de qual década?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 1980", "Anos 2010"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f1-12",
+      "enunciado": "O sertanejo universitário, com duplas como Jorge & Mateus, dominou as rádios a partir de qual época?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 1980", "Anos 2000-2010"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f1-13",
+      "enunciado": "Grupos como Raça Negra e Só Pra Contrariar tocam qual gênero?",
+      "alternativas": ["Pagode", "Forró", "Axé", "Rock"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f1-14",
+      "enunciado": "A cantora Carmen Miranda fez grande sucesso em qual época?",
+      "alternativas": ["Anos 1980", "Anos 1930-40", "Anos 1960", "Anos 2000"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f1-15",
+      "enunciado": "O rap nacional, com os Racionais MC's, cresceu fortemente em qual década?",
+      "alternativas": ["Anos 1950", "Anos 1960", "Anos 1990", "Anos 1930"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f1-16",
+      "enunciado": "A cantora pop Anitta começou a se destacar em qual década?",
+      "alternativas": ["Anos 1970", "Anos 1980", "Anos 1990", "Anos 2010"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f1-17",
+      "enunciado": "A MPB (Música Popular Brasileira) reúne nomes como Chico Buarque, Caetano e quem mais?",
+      "alternativas": ["Gilberto Gil", "Pelé", "Roberto Carlos apenas", "Sidney Magal"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f1-18",
+      "enunciado": "A clássica \"Garota de Ipanema\" pertence a qual gênero?",
+      "alternativas": ["Samba", "Bossa nova", "Forró", "Axé"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f1-19",
+      "enunciado": "O funk carioca se popularizou nacionalmente a partir de qual época?",
+      "alternativas": ["Anos 1940", "Anos 1960", "Anos 2000", "Anos 1930"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f1-20",
+      "enunciado": "A dupla pop Sandy & Junior fez muito sucesso em qual período?",
+      "alternativas": ["Anos 1950", "Anos 1960", "Anos 1970", "Anos 1990-2000"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f1-21",
+      "enunciado": "O sertanejo \"sofrência\", com Marília Mendonça, marcou qual década?",
+      "alternativas": ["Anos 2010", "Anos 1980", "Anos 1960", "Anos 1940"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f1-22",
+      "enunciado": "Os Mutantes, banda psicodélica, surgiram na época de qual movimento?",
+      "alternativas": ["Pagode", "Tropicalismo (anos 60)", "Axé", "Funk"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f1-23",
+      "enunciado": "Bandas de rock como Titãs e Paralamas do Sucesso são de qual década?",
+      "alternativas": ["Anos 1950", "Anos 1960", "Anos 1980", "Anos 2010"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f1-24",
+      "enunciado": "Ritmos eletrônicos com DJs como Alok ganharam força em qual década?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 1980", "Anos 2010"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f1-25",
+      "enunciado": "Roberto Carlos fez parte de qual movimento musical dos anos 1960?",
+      "alternativas": ["Jovem Guarda", "Tropicalismo", "Manguebeat", "Pagode"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f1-26",
+      "enunciado": "A canção \"Aquarela do Brasil\" é um exemplo de qual gênero?",
+      "alternativas": ["Forró", "Samba-exaltação", "Funk", "Rock"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f1-27",
+      "enunciado": "O reggae brasileiro é uma forte tradição musical de qual estado?",
+      "alternativas": ["Rio Grande do Sul", "Paraná", "Maranhão", "Santa Catarina"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f1-28",
+      "enunciado": "O sertanejo raiz é tradicionalmente tocado com qual instrumento?",
+      "alternativas": ["Guitarra elétrica", "Sanfona apenas", "Bateria eletrônica", "Viola caipira"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f1-29",
+      "enunciado": "O grupo É o Tchan, do \"tchanzinho\", fazia parte de qual gênero dos anos 90?",
+      "alternativas": ["Axé", "Bossa nova", "MPB", "Rock"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f1-30",
+      "enunciado": "Cazuza, falecido em 1990, foi um grande nome de qual estilo?",
+      "alternativas": ["Pagode", "Rock brasileiro", "Forró", "Sertanejo"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f1-01",
+      "enunciado": "Qual prato é feito com feijão preto, carnes de porco, arroz e farofa?",
+      "alternativas": ["Feijoada", "Moqueca", "Acarajé", "Baião de dois"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f1-02",
+      "enunciado": "O acarajé é uma comida típica de qual estado?",
+      "alternativas": ["Pará", "Bahia", "Ceará", "Minas Gerais"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f1-03",
+      "enunciado": "O pão de queijo é uma iguaria tradicional de qual estado?",
+      "alternativas": ["Bahia", "Pará", "Minas Gerais", "Rio Grande do Sul"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f1-04",
+      "enunciado": "O churrasco no espeto é uma forte tradição culinária de qual estado?",
+      "alternativas": ["Bahia", "Pará", "Minas Gerais", "Rio Grande do Sul"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f1-05",
+      "enunciado": "O tacacá e o pato no tucupi são pratos típicos de qual região?",
+      "alternativas": ["Norte (Pará)", "Sul", "Sudeste", "Nordeste"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f1-06",
+      "enunciado": "A tapioca é feita a partir de qual ingrediente?",
+      "alternativas": ["Trigo", "Goma de mandioca", "Milho", "Arroz"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f1-07",
+      "enunciado": "O cuscuz nordestino é tradicionalmente feito de quê?",
+      "alternativas": ["Arroz", "Trigo", "Milho (flocão)", "Mandioca"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f1-08",
+      "enunciado": "O açaí na tigela, com granola e banana, é típico de qual região?",
+      "alternativas": ["Sul", "Sudeste", "Nordeste", "Norte (Amazônia)"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f1-09",
+      "enunciado": "Qual doce brasileiro é feito de leite condensado, chocolate e granulado?",
+      "alternativas": ["Brigadeiro", "Cocada", "Pé de moleque", "Paçoca"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f1-10",
+      "enunciado": "A vatapá e a moqueca são pratos típicos de qual estado?",
+      "alternativas": ["Minas Gerais", "Bahia", "Paraná", "Rio Grande do Sul"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f1-11",
+      "enunciado": "A coxinha é tradicionalmente recheada com o quê?",
+      "alternativas": ["Queijo apenas", "Carne moída", "Frango", "Camarão"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f1-12",
+      "enunciado": "A pamonha e o curau são feitos com qual ingrediente?",
+      "alternativas": ["Mandioca", "Arroz", "Trigo", "Milho"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f1-13",
+      "enunciado": "O tutu de feijão é um prato típico de qual estado?",
+      "alternativas": ["Minas Gerais", "Bahia", "Pará", "Amazonas"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f1-14",
+      "enunciado": "O bobó de camarão é um prato da culinária de qual estado?",
+      "alternativas": ["Rio Grande do Sul", "Bahia", "Paraná", "São Paulo"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f1-15",
+      "enunciado": "O baião de dois é um prato típico de qual região?",
+      "alternativas": ["Sul", "Sudeste", "Nordeste", "Norte"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f1-16",
+      "enunciado": "Com o que a feijoada costuma ser servida para 'cortar a gordura'?",
+      "alternativas": ["Maçã", "Banana", "Uva", "Laranja"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f1-17",
+      "enunciado": "O barreado, prato cozido por horas em panela de barro, é típico de qual estado?",
+      "alternativas": ["Paraná", "Bahia", "Pará", "Goiás"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f1-18",
+      "enunciado": "A carne de sol é típica de qual região do Brasil?",
+      "alternativas": ["Sul", "Nordeste (sertão)", "Sudeste", "Norte"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f1-19",
+      "enunciado": "A pamonha é tradicionalmente embrulhada em quê?",
+      "alternativas": ["Folha de bananeira", "Papel-alumínio", "Palha de milho", "Folha de mandioca"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f1-20",
+      "enunciado": "O doce de leite é feito basicamente de quê?",
+      "alternativas": ["Coco e açúcar", "Amendoim e açúcar", "Leite condensado e ovos", "Leite e açúcar"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f1-21",
+      "enunciado": "O arroz carreteiro, com charque, é um prato típico de qual região?",
+      "alternativas": ["Sul", "Nordeste", "Norte", "Sudeste"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f1-22",
+      "enunciado": "O queijo coalho assado na brasa é um petisco típico de qual região?",
+      "alternativas": ["Sul", "Nordeste", "Sudeste", "Centro-Oeste"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f1-23",
+      "enunciado": "A moqueca é um prato à base de quê?",
+      "alternativas": ["Carne de boi", "Frango", "Peixe e frutos do mar", "Porco"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f1-24",
+      "enunciado": "O pequi é uma fruta muito usada na culinária de qual estado?",
+      "alternativas": ["Bahia", "Pará", "Rio Grande do Sul", "Goiás"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f1-25",
+      "enunciado": "Qual prato mineiro junta arroz, feijão, couve, torresmo e ovo?",
+      "alternativas": ["Tutu / virado à mineira", "Acarajé", "Moqueca", "Tacacá"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f1-26",
+      "enunciado": "A farofa é um acompanhamento feito principalmente de quê?",
+      "alternativas": ["Arroz", "Farinha de mandioca", "Milho", "Trigo"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f1-27",
+      "enunciado": "Qual destes é um doce típico feito de coco ralado e açúcar?",
+      "alternativas": ["Brigadeiro", "Paçoca", "Cocada", "Pudim"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f1-28",
+      "enunciado": "O chimarrão, bebida de erva-mate na cuia, é tradicional de qual região?",
+      "alternativas": ["Norte", "Nordeste", "Centro-Oeste", "Sul"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f1-29",
+      "enunciado": "Qual prato típico baiano é uma massa de feijão-fradinho frita no dendê?",
+      "alternativas": ["Acarajé", "Vatapá", "Caruru", "Bobó"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f1-30",
+      "enunciado": "A canjica (ou mungunzá doce) é tradicional de qual época festiva?",
+      "alternativas": ["Carnaval", "Festas juninas", "Natal apenas", "Páscoa"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-01",
+      "enunciado": "Qual foi a primeira capital do Brasil, no período colonial?",
+      "alternativas": ["Salvador", "Rio de Janeiro", "Recife", "São Paulo"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f1-02",
+      "enunciado": "Qual cidade foi a capital do Brasil imediatamente antes de Brasília?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Salvador", "Belo Horizonte"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-03",
+      "enunciado": "Qual produto deu origem ao nome do nosso país e foi a primeira riqueza explorada?",
+      "alternativas": ["Ouro", "Café", "Pau-brasil", "Açúcar"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f1-04",
+      "enunciado": "De qual região saíam os bandeirantes que exploraram o interior do Brasil?",
+      "alternativas": ["Bahia", "Pernambuco", "Minas Gerais", "São Paulo"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f1-05",
+      "enunciado": "Quem foi o líder da Inconfidência Mineira que acabou executado?",
+      "alternativas": ["Tiradentes", "Zumbi", "Dom Pedro I", "José Bonifácio"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f1-06",
+      "enunciado": "Em que ano a família real portuguesa chegou ao Brasil, fugindo de Napoleão?",
+      "alternativas": ["1500", "1808", "1822", "1889"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-07",
+      "enunciado": "Qual era a principal atividade econômica do Brasil colonial nos engenhos?",
+      "alternativas": ["Mineração de ouro", "Pecuária", "Produção de açúcar (cana)", "Comércio de café"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f1-08",
+      "enunciado": "Quem proclamou a República do Brasil, em 1889?",
+      "alternativas": ["Dom Pedro II", "Princesa Isabel", "Getúlio Vargas", "Marechal Deodoro da Fonseca"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f1-09",
+      "enunciado": "Quem foi o segundo (e último) imperador do Brasil?",
+      "alternativas": ["Dom Pedro II", "Dom Pedro I", "Dom João VI", "Dom Manuel"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f1-10",
+      "enunciado": "Os africanos trazidos à força para o Brasil eram submetidos a qual condição?",
+      "alternativas": ["Trabalho livre", "Escravidão", "Servidão temporária", "Cidadania plena"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-11",
+      "enunciado": "O maior quilombo do período colonial, símbolo de resistência, foi o de...",
+      "alternativas": ["Cabula", "Ambrósio", "Palmares", "Buraco do Tatu"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f1-12",
+      "enunciado": "Qual sistema de divisão de terras foi usado para colonizar o Brasil no início?",
+      "alternativas": ["Sesmarias municipais", "Reforma agrária", "Comuna", "Capitanias hereditárias"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f1-13",
+      "enunciado": "O \"ciclo do ouro\", no século XVIII, foi mais intenso em qual estado?",
+      "alternativas": ["Minas Gerais", "Bahia", "São Paulo", "Pará"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f1-14",
+      "enunciado": "A Independência do Brasil foi proclamada em que ano?",
+      "alternativas": ["1500", "1822", "1888", "1922"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-15",
+      "enunciado": "Qual atividade econômica marcou o \"ciclo\" da região Sudeste no século XIX?",
+      "alternativas": ["Borracha", "Açúcar", "Café", "Algodão"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f1-16",
+      "enunciado": "Quem assinou a Lei Áurea, que aboliu a escravidão em 1888?",
+      "alternativas": ["Dom Pedro II", "Marechal Deodoro", "Getúlio Vargas", "Princesa Isabel"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f1-17",
+      "enunciado": "Antes da chegada dos portugueses, quem já habitava o território brasileiro?",
+      "alternativas": ["Os povos indígenas", "Os africanos", "Os espanhóis", "Ninguém"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f1-18",
+      "enunciado": "Quem comandou a construção de Brasília, inaugurada em 1960?",
+      "alternativas": ["Getúlio Vargas", "Juscelino Kubitschek", "Jânio Quadros", "João Goulart"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-19",
+      "enunciado": "O Brasil foi colonizado por qual país europeu?",
+      "alternativas": ["Espanha", "França", "Portugal", "Holanda"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f1-20",
+      "enunciado": "Qual frase está escrita na bandeira do Brasil?",
+      "alternativas": ["Pátria Amada", "Liberdade e União", "Brasil acima de tudo", "Ordem e Progresso"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f1-21",
+      "enunciado": "Em que ano teve início o regime militar no Brasil?",
+      "alternativas": ["1964", "1945", "1988", "1922"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f1-22",
+      "enunciado": "A atual Constituição brasileira foi promulgada em que ano?",
+      "alternativas": ["1964", "1988", "2000", "1937"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-23",
+      "enunciado": "Qual cidade histórica de Minas Gerais é símbolo do ciclo do ouro e do Barroco?",
+      "alternativas": ["Belo Horizonte", "Uberlândia", "Ouro Preto", "Juiz de Fora"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f1-24",
+      "enunciado": "Quem é considerado o herói da resistência negra, líder do Quilombo dos Palmares?",
+      "alternativas": ["Zumbi", "Tiradentes", "Anhanguera", "Caramuru"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f1-25",
+      "enunciado": "Em 1889, o Brasil deixou de ser Império e tornou-se o quê?",
+      "alternativas": ["Colônia", "República", "Reino", "Ditadura"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-26",
+      "enunciado": "Quem proclamou a Independência às margens do rio Ipiranga?",
+      "alternativas": ["Dom João VI", "Marechal Deodoro", "Dom Pedro I", "José Bonifácio"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f1-27",
+      "enunciado": "Qual lei, anterior à abolição, libertava os filhos de escravizados que nascessem?",
+      "alternativas": ["Lei Áurea", "Lei do Sexagenário", "Lei Eusébio de Queirós", "Lei do Ventre Livre"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f1-28",
+      "enunciado": "Qual presidente da Era Vargas ficou conhecido como \"pai dos pobres\"?",
+      "alternativas": ["Getúlio Vargas", "Juscelino Kubitschek", "Eurico Dutra", "Café Filho"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f1-29",
+      "enunciado": "Quem governava a colônia em nome do rei de Portugal?",
+      "alternativas": ["O prefeito", "O governador-geral", "O imperador", "O presidente"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f1-30",
+      "enunciado": "A Semana de Arte Moderna, marco cultural brasileiro, ocorreu em que ano?",
+      "alternativas": ["1888", "1908", "1922", "1945"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f1-01",
+      "enunciado": "Quantos são os Poderes da República no Brasil?",
+      "alternativas": ["Três", "Dois", "Quatro", "Cinco"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f1-02",
+      "enunciado": "Quem é o chefe do Poder Executivo federal no Brasil?",
+      "alternativas": ["O governador", "O presidente da República", "O prefeito", "O senador"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f1-03",
+      "enunciado": "Em qual cidade fica a sede do governo federal brasileiro?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f1-04",
+      "enunciado": "Quem é responsável por administrar um estado brasileiro?",
+      "alternativas": ["O prefeito", "O senador", "O vereador", "O governador"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f1-05",
+      "enunciado": "Quem administra um município (cidade)?",
+      "alternativas": ["O prefeito", "O governador", "O presidente", "O deputado"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f1-06",
+      "enunciado": "Quantos anos dura o mandato do presidente da República?",
+      "alternativas": ["2 anos", "4 anos", "5 anos", "8 anos"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f1-07",
+      "enunciado": "Qual é a lei máxima que organiza o país e está acima das demais?",
+      "alternativas": ["O Código Penal", "O hino nacional", "A Constituição", "O decreto"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f1-08",
+      "enunciado": "Qual poder é responsável por julgar e aplicar as leis?",
+      "alternativas": ["O Executivo", "O Legislativo", "A imprensa", "O Judiciário"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f1-09",
+      "enunciado": "Quem cria as leis municipais de uma cidade?",
+      "alternativas": ["A Câmara de Vereadores", "O Congresso Nacional", "O Senado", "O STF"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f1-10",
+      "enunciado": "A partir de quantos anos o voto é obrigatório no Brasil?",
+      "alternativas": ["16 anos", "18 anos", "21 anos", "25 anos"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f1-11",
+      "enunciado": "O Brasil é classificado como qual tipo de Estado?",
+      "alternativas": ["Monarquia", "Ditadura", "República Federativa", "Império"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f1-12",
+      "enunciado": "Quem substitui o presidente em caso de ausência ou impedimento?",
+      "alternativas": ["O ministro", "O governador", "O senador mais velho", "O vice-presidente"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f1-13",
+      "enunciado": "Como é o voto no Brasil quanto ao sigilo?",
+      "alternativas": ["Secreto", "Público", "Aberto", "Por aclamação"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f1-14",
+      "enunciado": "Qual aparelho é usado para votar nas eleições brasileiras?",
+      "alternativas": ["A cédula de papel", "A urna eletrônica", "O computador de casa", "O celular"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f1-15",
+      "enunciado": "Qual é o sistema público de saúde do Brasil?",
+      "alternativas": ["INSS", "FGTS", "SUS", "PIS"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f1-16",
+      "enunciado": "De onde, em uma democracia, emana (vem) o poder?",
+      "alternativas": ["Do exército", "Da igreja", "Dos ricos", "Do povo"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f1-17",
+      "enunciado": "Quem faz as leis no âmbito federal (nacional)?",
+      "alternativas": ["O Congresso Nacional", "O presidente sozinho", "O STF", "A polícia"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f1-18",
+      "enunciado": "De quantos em quantos anos acontecem as eleições para presidente?",
+      "alternativas": ["2 anos", "4 anos", "6 anos", "10 anos"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f1-19",
+      "enunciado": "Para que servem os impostos pagos pela população?",
+      "alternativas": ["Para enriquecer empresas", "Para nada", "Para financiar serviços públicos", "Para pagar a igreja"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f1-20",
+      "enunciado": "Além de um direito, o voto é considerado o quê para a maioria dos brasileiros?",
+      "alternativas": ["Um lazer", "Um luxo", "Um castigo", "Um dever"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f1-21",
+      "enunciado": "Quem comanda as Forças Armadas no Brasil?",
+      "alternativas": ["O presidente da República", "O general mais antigo", "O Congresso", "O STF"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f1-22",
+      "enunciado": "A bandeira e o hino são exemplos de quê?",
+      "alternativas": ["Leis", "Símbolos nacionais", "Impostos", "Partidos"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f1-23",
+      "enunciado": "Quantos senadores representam cada estado no Senado?",
+      "alternativas": ["1", "2", "3", "5"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f1-24",
+      "enunciado": "Como se chama a casa que reúne os deputados federais?",
+      "alternativas": ["Senado Federal", "Assembleia Legislativa", "Câmara Municipal", "Câmara dos Deputados"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f1-25",
+      "enunciado": "Quem é o chefe do Poder Executivo de um município?",
+      "alternativas": ["O prefeito", "O vereador", "O governador", "O juiz"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f1-26",
+      "enunciado": "Quais são os três Poderes da República?",
+      "alternativas": ["União, estados e municípios", "Executivo, Legislativo e Judiciário", "Polícia, Exército e Justiça", "Presidente, governador e prefeito"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f1-27",
+      "enunciado": "Para votar, o cidadão precisa estar inscrito e ter qual documento eleitoral?",
+      "alternativas": ["Carteira de motorista", "Passaporte", "Título de eleitor", "Carteira de trabalho"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f1-28",
+      "enunciado": "A escola pública e gratuita é mantida principalmente por quem?",
+      "alternativas": ["Empresas privadas", "Igrejas", "Doações", "Pelo governo (com impostos)"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f1-29",
+      "enunciado": "O Brasil é dividido em quantas esferas de governo?",
+      "alternativas": ["Três (federal, estadual e municipal)", "Duas", "Uma só", "Cinco"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f1-30",
+      "enunciado": "Em que ano foi promulgada a atual Constituição brasileira?",
+      "alternativas": ["1964", "1988", "2000", "1937"],
+      "correta": 1
     }
   ],
   "2": [
@@ -10080,6 +10980,906 @@
       "id": "fol-f2-30",
       "enunciado": "Qual folclorista é autor do famoso \"Dicionário do Folclore Brasileiro\"?",
       "alternativas": ["Gilberto Freyre", "Câmara Cascudo", "Mário de Andrade", "Darcy Ribeiro"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f2-01",
+      "enunciado": "Qual é a capital do Maranhão?",
+      "alternativas": ["São Luís", "Teresina", "Belém", "Fortaleza"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f2-02",
+      "enunciado": "Qual é a capital do Piauí?",
+      "alternativas": ["São Luís", "Teresina", "Natal", "Recife"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f2-03",
+      "enunciado": "Qual é a capital do Rio Grande do Norte?",
+      "alternativas": ["João Pessoa", "Maceió", "Natal", "Aracaju"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f2-04",
+      "enunciado": "Qual é a capital da Paraíba?",
+      "alternativas": ["Recife", "Natal", "Aracaju", "João Pessoa"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f2-05",
+      "enunciado": "Qual é a capital de Sergipe?",
+      "alternativas": ["Aracaju", "Maceió", "Salvador", "João Pessoa"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f2-06",
+      "enunciado": "Qual é a capital do Espírito Santo?",
+      "alternativas": ["Vila Velha", "Vitória", "Cariacica", "Guarapari"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f2-07",
+      "enunciado": "Qual é a capital do Mato Grosso?",
+      "alternativas": ["Campo Grande", "Goiânia", "Cuiabá", "Palmas"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f2-08",
+      "enunciado": "Qual é a capital do Mato Grosso do Sul?",
+      "alternativas": ["Cuiabá", "Goiânia", "Palmas", "Campo Grande"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f2-09",
+      "enunciado": "Qual é a capital do Tocantins?",
+      "alternativas": ["Palmas", "Cuiabá", "Porto Velho", "Macapá"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f2-10",
+      "enunciado": "Qual é a capital de Rondônia?",
+      "alternativas": ["Boa Vista", "Porto Velho", "Rio Branco", "Manaus"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f2-11",
+      "enunciado": "Qual é a capital do Acre?",
+      "alternativas": ["Boa Vista", "Macapá", "Rio Branco", "Porto Velho"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f2-12",
+      "enunciado": "Qual é a capital do Amapá?",
+      "alternativas": ["Boa Vista", "Belém", "Manaus", "Macapá"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f2-13",
+      "enunciado": "O arquipélago de Fernando de Noronha pertence a qual estado?",
+      "alternativas": ["Pernambuco", "Rio Grande do Norte", "Bahia", "Ceará"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f2-14",
+      "enunciado": "As praias paradisíacas de Jericoacoara ficam em qual estado?",
+      "alternativas": ["Bahia", "Ceará", "Rio Grande do Norte", "Maranhão"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f2-15",
+      "enunciado": "Os Lençóis Maranhenses, com dunas e lagoas, ficam em qual estado?",
+      "alternativas": ["Piauí", "Ceará", "Maranhão", "Bahia"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f2-16",
+      "enunciado": "A Chapada Diamantina, com cânions e cachoeiras, fica em qual estado?",
+      "alternativas": ["Goiás", "Minas Gerais", "Tocantins", "Bahia"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f2-17",
+      "enunciado": "O Rio São Francisco, o \"Velho Chico\", nasce em qual estado?",
+      "alternativas": ["Minas Gerais", "Bahia", "Pernambuco", "Sergipe"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f2-18",
+      "enunciado": "A Serra Gaúcha, com Gramado e Canela, fica em qual estado?",
+      "alternativas": ["Santa Catarina", "Rio Grande do Sul", "Paraná", "São Paulo"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f2-19",
+      "enunciado": "Em qual estado fica a cidade de Foz do Iguaçu, na tríplice fronteira?",
+      "alternativas": ["Santa Catarina", "Rio Grande do Sul", "Paraná", "Mato Grosso do Sul"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f2-20",
+      "enunciado": "Em qual estado se realiza, em Campina Grande, um dos maiores São João do mundo?",
+      "alternativas": ["Pernambuco", "Ceará", "Rio Grande do Norte", "Paraíba"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f2-21",
+      "enunciado": "O Cristo Redentor está no topo de qual morro?",
+      "alternativas": ["Corcovado", "Pão de Açúcar", "Dois Irmãos", "Pedra da Gávea"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f2-22",
+      "enunciado": "A Ilha de Porto Seguro, ligada ao descobrimento do Brasil, fica em qual estado?",
+      "alternativas": ["Espírito Santo", "Bahia", "Sergipe", "Alagoas"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f2-23",
+      "enunciado": "Em qual estado fica a Ilha de Marajó, na foz do Amazonas?",
+      "alternativas": ["Amazonas", "Amapá", "Pará", "Maranhão"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f2-24",
+      "enunciado": "O Bumba meu Boi é uma das maiores manifestações culturais de qual estado?",
+      "alternativas": ["Pará", "Amazonas", "Bahia", "Maranhão"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f2-25",
+      "enunciado": "Qual estado é conhecido pelo queijo e pelo pão de queijo?",
+      "alternativas": ["Minas Gerais", "Goiás", "São Paulo", "Bahia"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f2-26",
+      "enunciado": "O bioma dos Pampas (campos do Sul) está presente principalmente em qual estado?",
+      "alternativas": ["Paraná", "Rio Grande do Sul", "Santa Catarina", "Mato Grosso"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f2-27",
+      "enunciado": "A região metropolitana de qual cidade é a mais populosa do Brasil?",
+      "alternativas": ["Rio de Janeiro", "Belo Horizonte", "São Paulo", "Brasília"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f2-28",
+      "enunciado": "Belém, capital do Pará, é considerada a porta de entrada de qual região?",
+      "alternativas": ["Pantanal", "Caatinga", "Cerrado", "Amazônia"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f2-29",
+      "enunciado": "O ponto mais oriental (a leste) do Brasil continental fica em qual estado?",
+      "alternativas": ["Paraíba", "Pernambuco", "Rio Grande do Norte", "Ceará"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f2-30",
+      "enunciado": "A cidade imperial de Petrópolis, na serra, fica em qual estado?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Minas Gerais", "Espírito Santo"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f2-01",
+      "enunciado": "Quem é considerado o principal compositor da bossa nova?",
+      "alternativas": ["Tom Jobim", "Roberto Carlos", "Luiz Gonzaga", "Cartola"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f2-02",
+      "enunciado": "Qual músico, com sua batida de violão, é considerado pai da bossa nova?",
+      "alternativas": ["Baden Powell", "João Gilberto", "Vinicius de Moraes", "Dorival Caymmi"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f2-03",
+      "enunciado": "Além de Roberto e Erasmo, qual cantora era um dos rostos da Jovem Guarda?",
+      "alternativas": ["Elis Regina", "Rita Lee", "Wanderléa", "Gal Costa"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f2-04",
+      "enunciado": "Elis Regina foi uma das maiores vozes da MPB em qual década?",
+      "alternativas": ["Anos 1990", "Anos 2000", "Anos 1950", "Anos 1970"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f2-05",
+      "enunciado": "Raul Seixas, o \"Maluco Beleza\", marcou o rock brasileiro de qual década?",
+      "alternativas": ["Anos 1970", "Anos 1990", "Anos 2010", "Anos 1940"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f2-06",
+      "enunciado": "Qual cantor era o vocalista do grupo Secos & Molhados?",
+      "alternativas": ["Cazuza", "Ney Matogrosso", "Renato Russo", "Belchior"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f2-07",
+      "enunciado": "O grupo Mamonas Assassinas teve o fim trágico em 1996 por causa de quê?",
+      "alternativas": ["Uma briga", "Uma doença", "Um acidente aéreo", "Uma separação"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f2-08",
+      "enunciado": "Tim Maia foi um ícone de qual gênero no Brasil, nos anos 1970?",
+      "alternativas": ["Sertanejo", "Forró", "Bossa nova", "Soul/black music"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f2-09",
+      "enunciado": "O \"Clube da Esquina\", com Milton Nascimento, surgiu em qual década?",
+      "alternativas": ["Anos 1970", "Anos 1990", "Anos 2010", "Anos 1940"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f2-10",
+      "enunciado": "Bandas como Skank, Jota Quest e O Rappa surgiram em qual década?",
+      "alternativas": ["Anos 1960", "Anos 1990", "Anos 2010", "Anos 1940"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f2-11",
+      "enunciado": "Marília Mendonça foi um dos grandes nomes de qual estilo nos anos 2010?",
+      "alternativas": ["Bossa nova", "Rock", "Sertanejo (sofrência)", "Pagode"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f2-12",
+      "enunciado": "A banda Charlie Brown Jr., do vocalista Chorão, surgiu em qual período?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 1940", "Anos 1990-2000"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f2-13",
+      "enunciado": "Cartola, sambista reconhecido tardiamente, gravou seus discos solo principalmente em qual década?",
+      "alternativas": ["Anos 1970", "Anos 1990", "Anos 2010", "Anos 1930"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f2-14",
+      "enunciado": "O grupo Calypso, de Joelma e Chimbinha, fez sucesso nacional em qual década?",
+      "alternativas": ["Anos 1980", "Anos 2000", "Anos 1960", "Anos 1940"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f2-15",
+      "enunciado": "O \"tecnobrega\" é um ritmo que surgiu em qual estado, nos anos 2000?",
+      "alternativas": ["Bahia", "Rio Grande do Sul", "Pará", "Minas Gerais"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f2-16",
+      "enunciado": "Gilberto Gil e Caetano Veloso, líderes do tropicalismo, são naturais de qual estado?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Pernambuco", "Bahia"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f2-17",
+      "enunciado": "Quem compôs e cantou \"Construção\" e \"Cálice\", nos anos 1970?",
+      "alternativas": ["Chico Buarque", "Roberto Carlos", "Tim Maia", "Raul Seixas"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f2-18",
+      "enunciado": "O álbum \"Getz/Gilberto\", que levou a bossa nova ao mundo, é de qual década?",
+      "alternativas": ["Anos 1980", "Anos 1960", "Anos 2000", "Anos 1940"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f2-19",
+      "enunciado": "Os Racionais MC's lançaram \"Sobrevivendo no Inferno\" em qual década?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 1990", "Anos 2010"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f2-20",
+      "enunciado": "Reginaldo Rossi foi um grande nome de qual estilo nos anos 1980?",
+      "alternativas": ["Rock", "Bossa nova", "Funk", "Brega/romântico"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f2-21",
+      "enunciado": "Cazuza, antes da carreira solo, foi vocalista de qual banda?",
+      "alternativas": ["Barão Vermelho", "Legião Urbana", "Titãs", "Ultraje a Rigor"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f2-22",
+      "enunciado": "Marisa Monte se consolidou como nome da MPB a partir de qual década?",
+      "alternativas": ["Anos 1960", "Anos 1990", "Anos 2010", "Anos 1940"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f2-23",
+      "enunciado": "O pagode dos anos 1990 teve grupos como Raça Negra, Exaltasamba e...",
+      "alternativas": ["Legião Urbana", "Mamonas Assassinas", "Só Pra Contrariar", "Skank"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f2-24",
+      "enunciado": "O \"funk ostentação\", que exibe riqueza nas letras, ganhou força em qual década?",
+      "alternativas": ["Anos 1970", "Anos 1980", "Anos 1990", "Anos 2010"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f2-25",
+      "enunciado": "Djavan estourou nacionalmente em qual década, com \"Sina\" e \"Oceano\"?",
+      "alternativas": ["Anos 1980", "Anos 2000", "Anos 1950", "Anos 1930"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f2-26",
+      "enunciado": "Cássia Eller marcou a música brasileira principalmente em qual década?",
+      "alternativas": ["Anos 1960", "Anos 1990", "Anos 1930", "Anos 2010"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f2-27",
+      "enunciado": "A música \"Águas de Março\", gravada por Elis e Tom, é de qual década?",
+      "alternativas": ["Anos 1950", "Anos 1990", "Anos 1970", "Anos 2010"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f2-28",
+      "enunciado": "Gonzaguinha, cantor da MPB, era filho de qual artista?",
+      "alternativas": ["Cartola", "Pixinguinha", "Noel Rosa", "Luiz Gonzaga"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f2-29",
+      "enunciado": "Jorge Ben Jor é associado à criação de qual mistura de estilo?",
+      "alternativas": ["Samba-rock", "Bossa-funk", "Forró-pop", "Axé-reggae"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f2-30",
+      "enunciado": "A palavra \"axé\" tem origem em uma saudação de qual religião de matriz africana?",
+      "alternativas": ["Islamismo", "Candomblé", "Budismo", "Catolicismo"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f2-01",
+      "enunciado": "A feijoada brasileira é uma adaptação de qual tipo de prato europeu?",
+      "alternativas": ["Cozido português", "Risoto italiano", "Ratatouille francês", "Paella espanhola"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f2-02",
+      "enunciado": "Em qual óleo o acarajé é tradicionalmente frito?",
+      "alternativas": ["Óleo de soja", "Azeite de dendê", "Azeite de oliva", "Manteiga"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f2-03",
+      "enunciado": "Qual erva, presente no tacacá, provoca uma leve dormência na boca?",
+      "alternativas": ["Coentro", "Hortelã", "Jambu", "Chicória"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f2-04",
+      "enunciado": "O tucupi, base de pratos paraenses, é um caldo amarelo extraído de qual planta?",
+      "alternativas": ["Milho", "Inhame", "Cará", "Mandioca (brava)"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f2-05",
+      "enunciado": "A moqueca capixaba se diferencia da baiana por NÃO levar quais ingredientes?",
+      "alternativas": ["Dendê e leite de coco", "Peixe e cebola", "Tomate e coentro", "Sal e limão"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f2-06",
+      "enunciado": "O famoso queijo Canastra é produzido em qual estado?",
+      "alternativas": ["Bahia", "Minas Gerais", "Goiás", "Paraná"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f2-07",
+      "enunciado": "O baião de dois leva arroz junto com qual combinação típica?",
+      "alternativas": ["Lentilha e bacon", "Grão-de-bico e linguiça", "Feijão-verde e queijo coalho", "Ervilha e ovo"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f2-08",
+      "enunciado": "O pato no tucupi é um prato fortemente associado a qual cidade?",
+      "alternativas": ["Salvador", "Recife", "São Luís", "Belém"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f2-09",
+      "enunciado": "A buchada de bode, prato do sertão, é feita usando qual parte do animal?",
+      "alternativas": ["O estômago e vísceras", "A perna", "A costela", "O lombo"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f2-10",
+      "enunciado": "O caruru, prato afro-baiano, leva quiabo e qual outro ingrediente principal?",
+      "alternativas": ["Frango", "Camarão", "Carne de porco", "Bacalhau"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f2-11",
+      "enunciado": "A maniçoba, prato do Pará, é feita com folhas de mandioca cozidas por dias para eliminar o quê?",
+      "alternativas": ["O excesso de sal", "O amargor do dendê", "O veneno (ácido) das folhas", "A cor verde"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f2-12",
+      "enunciado": "O escondidinho é coberto por um purê geralmente feito de quê?",
+      "alternativas": ["Batata-doce", "Inhame", "Abóbora", "Mandioca (aipim)"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f2-13",
+      "enunciado": "O arroz de cuxá, com a folha de vinagreira, é um prato típico de qual estado?",
+      "alternativas": ["Maranhão", "Piauí", "Ceará", "Pará"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f2-14",
+      "enunciado": "A canjica branca (mungunzá) é feita com qual tipo de milho?",
+      "alternativas": ["Milho-verde", "Milho branco", "Milho-pipoca", "Milho roxo"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f2-15",
+      "enunciado": "O acarajé é tradicionalmente vendido por quem, nas ruas da Bahia?",
+      "alternativas": ["Pescadores", "Vaqueiros", "Baianas de tabuleiro", "Pajés"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f2-16",
+      "enunciado": "O leitão à pururuca é caracterizado por ter a pele de que jeito?",
+      "alternativas": ["Macia", "Sem gordura", "Crua", "Bem crocante (estalando)"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f2-17",
+      "enunciado": "A galinhada, com arroz e frango caipira, é típica de qual região?",
+      "alternativas": ["Centro-Oeste/interior (Goiás)", "Litoral nordestino", "Amazônia", "Pampa gaúcho"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f2-18",
+      "enunciado": "O angu mineiro é feito principalmente de quê?",
+      "alternativas": ["Mandioca", "Fubá (farinha de milho)", "Trigo", "Arroz"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f2-19",
+      "enunciado": "O sarapatel, prato do Nordeste, é feito com quais ingredientes?",
+      "alternativas": ["Apenas legumes", "Peixe e camarão", "Vísceras e sangue de porco", "Frango e quiabo"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f2-20",
+      "enunciado": "A bebida quente \"quentão\", típica das festas juninas, leva gengibre e o quê?",
+      "alternativas": ["Café", "Leite", "Chá", "Cachaça (ou vinho)"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f2-21",
+      "enunciado": "O bobó de camarão é engrossado com qual ingrediente?",
+      "alternativas": ["Mandioca (aipim)", "Batata", "Farinha de trigo", "Arroz"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f2-22",
+      "enunciado": "O \"virado à paulista\" leva tutu de feijão, couve, ovo e qual carne típica?",
+      "alternativas": ["Bacalhau", "Linguiça/torresmo", "Camarão", "Carne de bode"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f2-23",
+      "enunciado": "O pirarucu, peixe usado seco como \"bacalhau da Amazônia\", é típico de qual região?",
+      "alternativas": ["Sul", "Nordeste", "Norte (Amazônia)", "Sudeste"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f2-24",
+      "enunciado": "A rabada é um prato feito com qual parte do boi?",
+      "alternativas": ["A língua", "O fígado", "A pata", "O rabo"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f2-25",
+      "enunciado": "O cuscuz paulista difere do nordestino por ser mais úmido e levar o quê?",
+      "alternativas": ["Sardinha e legumes", "Apenas milho", "Carne seca", "Coco"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f2-26",
+      "enunciado": "O mocotó é um prato gelatinoso feito de qual parte do boi?",
+      "alternativas": ["Costela", "Pata (perna inferior)", "Lombo", "Acém"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f2-27",
+      "enunciado": "A paçoca de carne seca (pilada no pilão) é típica de quais regiões?",
+      "alternativas": ["Sul", "Sudeste litorâneo", "Nordeste e Centro-Oeste", "Norte"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f2-28",
+      "enunciado": "Os \"fios de ovos\" e o \"baba de moça\" são doces de origem...",
+      "alternativas": ["Indígena", "Africana", "Italiana", "Portuguesa"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f2-29",
+      "enunciado": "A vatapá leva pão, camarão seco, amendoim, castanha e qual gordura?",
+      "alternativas": ["Azeite de dendê", "Manteiga", "Banha de porco", "Óleo de girassol"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f2-30",
+      "enunciado": "O tambaqui, peixe muito apreciado assado, é típico de qual bacia hidrográfica?",
+      "alternativas": ["Bacia do Prata", "Bacia Amazônica", "Bacia do São Francisco", "Bacia do Paraná"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f2-01",
+      "enunciado": "A Revolta da Vacina (1904), contra a vacinação obrigatória, ocorreu em qual cidade?",
+      "alternativas": ["Rio de Janeiro", "São Paulo", "Salvador", "Recife"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f2-02",
+      "enunciado": "Quem foi o líder religioso da Guerra de Canudos, no sertão da Bahia?",
+      "alternativas": ["Padre Cícero", "Antônio Conselheiro", "Frei Caneca", "Lampião"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f2-03",
+      "enunciado": "A Revolução Farroupilha, a mais longa do Brasil, ocorreu em qual estado?",
+      "alternativas": ["Santa Catarina", "Paraná", "Rio Grande do Sul", "São Paulo"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f2-04",
+      "enunciado": "A Cabanagem, grande revolta popular do período regencial, ocorreu em qual província?",
+      "alternativas": ["Bahia", "Maranhão", "Pernambuco", "Grão-Pará"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f2-05",
+      "enunciado": "A Revolta dos Malês (1835), na Bahia, foi protagonizada por quem?",
+      "alternativas": ["Africanos muçulmanos escravizados", "Fazendeiros", "Padres", "Militares"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f2-06",
+      "enunciado": "Quem chegou ao poder com a Revolução de 1930 e governou por muitos anos?",
+      "alternativas": ["Juscelino Kubitschek", "Getúlio Vargas", "Washington Luís", "Prudente de Morais"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f2-07",
+      "enunciado": "A Guerra do Paraguai, o maior conflito da América do Sul, durou de qual período?",
+      "alternativas": ["1822-1825", "1889-1891", "1864-1870", "1932-1935"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f2-08",
+      "enunciado": "A política do \"café com leite\" alternava o poder entre São Paulo e qual estado?",
+      "alternativas": ["Rio de Janeiro", "Bahia", "Rio Grande do Sul", "Minas Gerais"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f2-09",
+      "enunciado": "A Revolta da Chibata (1910), na Marinha, foi liderada por qual marinheiro?",
+      "alternativas": ["João Cândido", "Luís Carlos Prestes", "Tenente Lampião", "Bento Gonçalves"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f2-10",
+      "enunciado": "O período entre os reinados de Pedro I e Pedro II, governado por regentes, é chamado de quê?",
+      "alternativas": ["República Velha", "Período Regencial", "Estado Novo", "Segundo Reinado"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f2-11",
+      "enunciado": "A Revolução Constitucionalista, que pedia uma nova constituição, ocorreu em 1932 em qual estado?",
+      "alternativas": ["Rio de Janeiro", "Minas Gerais", "São Paulo", "Bahia"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f2-12",
+      "enunciado": "A Coluna Prestes, que percorreu milhares de km pelo interior, foi um movimento de qual década?",
+      "alternativas": ["Anos 1890", "Anos 1900", "Anos 1910", "Anos 1920"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f2-13",
+      "enunciado": "A ditadura do Estado Novo (1937-1945) foi instaurada por quem?",
+      "alternativas": ["Getúlio Vargas", "Marechal Deodoro", "Floriano Peixoto", "Dutra"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f2-14",
+      "enunciado": "Em que ano Getúlio Vargas cometeu suicídio, ainda no poder?",
+      "alternativas": ["1945", "1954", "1961", "1964"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f2-15",
+      "enunciado": "O movimento das \"Diretas Já\", em 1984, pedia o quê?",
+      "alternativas": ["Mais impostos", "A volta da monarquia", "Eleições diretas para presidente", "A reforma agrária"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f2-16",
+      "enunciado": "O Plano Real, que estabilizou a moeda brasileira, foi implementado em que ano?",
+      "alternativas": ["1986", "1990", "1992", "1994"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f2-17",
+      "enunciado": "Qual herói militar brasileiro é o patrono do Exército, destaque na Guerra do Paraguai?",
+      "alternativas": ["Duque de Caxias", "Marechal Deodoro", "Floriano Peixoto", "Marechal Rondon"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f2-18",
+      "enunciado": "A Confederação do Equador (1824), revolta separatista, ocorreu principalmente em qual estado?",
+      "alternativas": ["Bahia", "Pernambuco", "Maranhão", "Pará"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f2-19",
+      "enunciado": "O voto feminino foi conquistado no Brasil em que década?",
+      "alternativas": ["Anos 1910", "Anos 1920", "Anos 1930", "Anos 1950"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f2-20",
+      "enunciado": "Quem foi o primeiro presidente do Brasil eleito por voto direto após a ditadura militar?",
+      "alternativas": ["Tancredo Neves", "José Sarney", "Itamar Franco", "Fernando Collor"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f2-21",
+      "enunciado": "A Balaiada, revolta popular, ocorreu em qual província?",
+      "alternativas": ["Maranhão", "Bahia", "Pará", "Pernambuco"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f2-22",
+      "enunciado": "O período chamado de \"milagre econômico\", de forte crescimento, ocorreu durante o quê?",
+      "alternativas": ["Império", "Regime militar", "Era Vargas", "República Velha"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f2-23",
+      "enunciado": "Qual presidente sofreu impeachment em 1992 por denúncias de corrupção?",
+      "alternativas": ["Sarney", "Itamar Franco", "Fernando Collor", "FHC"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f2-24",
+      "enunciado": "A Guerra dos Mascates (século XVIII) opôs comerciantes de Recife aos senhores de qual cidade?",
+      "alternativas": ["Salvador", "São Luís", "João Pessoa", "Olinda"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f2-25",
+      "enunciado": "A primeira Constituição republicana do Brasil foi promulgada em que ano?",
+      "alternativas": ["1891", "1824", "1934", "1946"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f2-26",
+      "enunciado": "Qual presidente renunciou ao cargo após apenas sete meses, em 1961?",
+      "alternativas": ["João Goulart", "Jânio Quadros", "Café Filho", "Juscelino Kubitschek"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f2-27",
+      "enunciado": "A invasão e ocupação do Nordeste no século XVII foi feita por qual povo europeu?",
+      "alternativas": ["Os franceses", "Os espanhóis", "Os holandeses", "Os ingleses"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f2-28",
+      "enunciado": "Qual revolta baiana de 1798 teve forte participação popular e ideias republicanas?",
+      "alternativas": ["Inconfidência Mineira", "Sabinada", "Revolta da Armada", "Conjuração Baiana"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f2-29",
+      "enunciado": "Após a morte de Vargas, qual presidente assumiu e construiu Brasília?",
+      "alternativas": ["Juscelino Kubitschek", "Jânio Quadros", "João Goulart", "Eurico Dutra"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f2-30",
+      "enunciado": "A Guerra de Canudos foi retratada no livro \"Os Sertões\", escrito por quem?",
+      "alternativas": ["Machado de Assis", "Euclides da Cunha", "Graciliano Ramos", "Jorge Amado"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f2-01",
+      "enunciado": "Quantos deputados federais compõem a Câmara dos Deputados?",
+      "alternativas": ["513", "81", "1.000", "300"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f2-02",
+      "enunciado": "Quantos senadores existem no total no Senado Federal?",
+      "alternativas": ["513", "81", "27", "100"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f2-03",
+      "enunciado": "Quantos anos dura o mandato de um senador?",
+      "alternativas": ["2 anos", "4 anos", "8 anos", "10 anos"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f2-04",
+      "enunciado": "Quantos anos dura o mandato de um deputado ou vereador?",
+      "alternativas": ["2 anos", "8 anos", "6 anos", "4 anos"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f2-05",
+      "enunciado": "O Poder Legislativo federal é formado pela Câmara dos Deputados e por qual outra casa?",
+      "alternativas": ["O Senado Federal", "O STF", "A Assembleia", "O Ministério"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f2-06",
+      "enunciado": "Qual é a sigla do tribunal que é o topo do Poder Judiciário brasileiro?",
+      "alternativas": ["TSE", "STF (Supremo Tribunal Federal)", "TCU", "STJ"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f2-07",
+      "enunciado": "Qual órgão da Justiça é responsável por organizar e fiscalizar as eleições?",
+      "alternativas": ["STF", "STJ", "TSE (Justiça Eleitoral)", "TCU"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f2-08",
+      "enunciado": "Os deputados estaduais legislam em qual casa?",
+      "alternativas": ["Câmara dos Deputados", "Senado", "Câmara Municipal", "Assembleia Legislativa"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f2-09",
+      "enunciado": "Quem julga o processo de impeachment de um presidente da República?",
+      "alternativas": ["O Senado Federal", "O STF", "A Câmara dos Deputados", "O TSE"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f2-10",
+      "enunciado": "Para quem o voto é facultativo (opcional) no Brasil?",
+      "alternativas": ["Para todos entre 18 e 70", "Para jovens de 16-17 e maiores de 70 anos", "Apenas para ricos", "Para ninguém"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f2-11",
+      "enunciado": "Os ministros do STF são indicados por quem?",
+      "alternativas": ["Pelo Congresso", "Pelo povo", "Pelo presidente da República (com aprovação do Senado)", "Por concurso público"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f2-12",
+      "enunciado": "Qual órgão fiscaliza as contas públicas federais, auxiliando o Congresso?",
+      "alternativas": ["STF", "TSE", "Polícia Federal", "TCU (Tribunal de Contas da União)"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f2-13",
+      "enunciado": "O número de deputados federais de cada estado depende principalmente de quê?",
+      "alternativas": ["Da população do estado", "Do tamanho em área", "Da riqueza", "Da quantidade de cidades"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f2-14",
+      "enunciado": "O que a separação dos poderes busca evitar?",
+      "alternativas": ["O voto", "A concentração e o abuso de poder", "As eleições", "Os impostos"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f2-15",
+      "enunciado": "Qual instituição fiscaliza a aplicação da lei e defende os interesses da sociedade?",
+      "alternativas": ["O Exército", "A Receita Federal", "O Ministério Público", "O Banco Central"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f2-16",
+      "enunciado": "Qual instituição oferece assistência jurídica gratuita a quem não pode pagar um advogado?",
+      "alternativas": ["O STF", "O Ministério Público", "A Polícia", "A Defensoria Pública"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f2-17",
+      "enunciado": "Em que cidade fica o Congresso Nacional?",
+      "alternativas": ["Brasília", "São Paulo", "Rio de Janeiro", "Belo Horizonte"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f2-18",
+      "enunciado": "Após o Congresso aprovar uma lei, quem a sanciona (aprova) ou veta?",
+      "alternativas": ["O STF", "O presidente da República", "O TSE", "O povo"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f2-19",
+      "enunciado": "As características do voto no Brasil incluem ser direto, secreto, universal e...",
+      "alternativas": ["público", "comprado", "obrigatório (para 18-70 anos)", "hereditário"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f2-20",
+      "enunciado": "Quem fiscaliza e legisla no âmbito municipal, ao lado do prefeito?",
+      "alternativas": ["Os deputados estaduais", "Os senadores", "Os governadores", "Os vereadores (Câmara Municipal)"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f2-21",
+      "enunciado": "O sufrágio universal significa que o direito de votar é, em regra, de quem?",
+      "alternativas": ["De todos os cidadãos (com requisitos legais)", "Só de quem paga imposto", "Só de homens", "Só de quem tem diploma"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f2-22",
+      "enunciado": "Cada estado e o Distrito Federal elegem quantos senadores?",
+      "alternativas": ["1", "3", "5", "10"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f2-23",
+      "enunciado": "Qual é a sigla do Superior Tribunal de Justiça?",
+      "alternativas": ["STF", "TSE", "STJ", "TST"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f2-24",
+      "enunciado": "Como se chama a proposta para mudar a Constituição?",
+      "alternativas": ["Decreto", "Medida provisória", "Lei ordinária", "PEC (Proposta de Emenda à Constituição)"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f2-25",
+      "enunciado": "O Senado Federal representa, na sua essência, quem na Federação?",
+      "alternativas": ["Os estados", "Os bancos", "Os partidos", "As empresas"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f2-26",
+      "enunciado": "A Câmara dos Deputados representa, na sua essência, quem?",
+      "alternativas": ["Os estados", "O povo", "Os militares", "Os juízes"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f2-27",
+      "enunciado": "O Brasil é considerado um Estado laico. O que isso significa?",
+      "alternativas": ["Que tem uma religião oficial", "Que proíbe religiões", "Que é neutro em relação às religiões", "Que é governado pela igreja"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f2-28",
+      "enunciado": "Quanto às esferas, uma lei válida em todo o país é de competência...",
+      "alternativas": ["Municipal", "Estadual", "Apenas do DF", "Federal"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f2-29",
+      "enunciado": "O processo que pode afastar definitivamente um presidente por crime de responsabilidade é o...",
+      "alternativas": ["Impeachment", "Recall", "Plebiscito", "Referendo"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f2-30",
+      "enunciado": "Quem chefia o Poder Executivo do Distrito Federal?",
+      "alternativas": ["Um prefeito", "Um governador", "Um intendente", "Um senador"],
       "correta": 1
     }
   ],
@@ -15123,6 +16923,906 @@
       "enunciado": "O Bumba meu Boi geralmente encena qual história central?",
       "alternativas": ["A fundação de uma cidade", "A morte e a ressurreição de um boi", "Uma batalha de cavaleiros", "Uma pescaria"],
       "correta": 1
+    },
+    {
+      "id": "reg-f3-01",
+      "enunciado": "Qual é o estado mais populoso do Brasil?",
+      "alternativas": ["São Paulo", "Minas Gerais", "Rio de Janeiro", "Bahia"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f3-02",
+      "enunciado": "Qual é o menor estado do Brasil em área?",
+      "alternativas": ["Alagoas", "Sergipe", "Espírito Santo", "Rio de Janeiro"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f3-03",
+      "enunciado": "Qual é o estado mais ao norte do Brasil?",
+      "alternativas": ["Amazonas", "Amapá", "Roraima", "Pará"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f3-04",
+      "enunciado": "Qual estado nordestino tem a maior economia (maior PIB)?",
+      "alternativas": ["Ceará", "Pernambuco", "Maranhão", "Bahia"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f3-05",
+      "enunciado": "O bioma Caatinga, com vegetação seca, é exclusivo de qual região do Brasil?",
+      "alternativas": ["Nordeste", "Norte", "Centro-Oeste", "Sul"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f3-06",
+      "enunciado": "Quantos estados formam a Região Sul do Brasil?",
+      "alternativas": ["2", "3", "4", "5"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f3-07",
+      "enunciado": "Além do Distrito Federal, quais estados formam o Centro-Oeste?",
+      "alternativas": ["Goiás, Tocantins e Bahia", "Minas, Goiás e MT", "Goiás, Mato Grosso e Mato Grosso do Sul", "MT, MS e Rondônia"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f3-08",
+      "enunciado": "O bioma Cerrado predomina em qual região do Brasil?",
+      "alternativas": ["Sul", "Nordeste", "Norte", "Centro-Oeste"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f3-09",
+      "enunciado": "Qual estado brasileiro abriga a maior parte da Floresta Amazônica?",
+      "alternativas": ["Amazonas", "Pará", "Acre", "Rondônia"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f3-10",
+      "enunciado": "Qual é o segundo estado mais populoso do Brasil?",
+      "alternativas": ["Rio de Janeiro", "Minas Gerais", "Bahia", "Paraná"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f3-11",
+      "enunciado": "Qual é a cidade mais populosa do Nordeste?",
+      "alternativas": ["Recife", "Fortaleza", "Salvador", "São Luís"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f3-12",
+      "enunciado": "Com quais países o estado do Acre faz fronteira?",
+      "alternativas": ["Colômbia e Venezuela", "Argentina e Paraguai", "Guiana e Suriname", "Peru e Bolívia"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f3-13",
+      "enunciado": "O Triângulo Mineiro é uma sub-região de qual estado?",
+      "alternativas": ["Minas Gerais", "São Paulo", "Goiás", "Mato Grosso"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f3-14",
+      "enunciado": "Qual estado tem o maior número de povos e população indígena do Brasil?",
+      "alternativas": ["Acre", "Amazonas", "Roraima", "Mato Grosso"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f3-15",
+      "enunciado": "O litoral da cidade portuária de Paranaguá fica em qual estado?",
+      "alternativas": ["Santa Catarina", "São Paulo", "Paraná", "Rio Grande do Sul"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f3-16",
+      "enunciado": "Qual é o bioma considerado a maior área alagável (planície úmida) do mundo?",
+      "alternativas": ["Amazônia", "Cerrado", "Caatinga", "Pantanal"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f3-17",
+      "enunciado": "A administração do arquipélago de Fernando de Noronha pertence a qual estado?",
+      "alternativas": ["Pernambuco", "Rio Grande do Norte", "Ceará", "Bahia"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f3-18",
+      "enunciado": "A Serra do Mar percorre o litoral de quais regiões?",
+      "alternativas": ["Norte e Nordeste", "Sudeste e Sul", "Centro-Oeste", "Apenas o Nordeste"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f3-19",
+      "enunciado": "Qual é o maior porto da América Latina, no estado de São Paulo?",
+      "alternativas": ["Porto do Rio de Janeiro", "Porto de Paranaguá", "Porto de Santos", "Porto de Itajaí"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f3-20",
+      "enunciado": "Qual estado tem o maior número de municípios do Brasil?",
+      "alternativas": ["São Paulo", "Bahia", "Rio Grande do Sul", "Minas Gerais"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f3-21",
+      "enunciado": "Qual estado é o maior produtor de soja do Brasil?",
+      "alternativas": ["Mato Grosso", "Paraná", "Goiás", "Rio Grande do Sul"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f3-22",
+      "enunciado": "Qual estado é tradicionalmente o maior produtor de café do Brasil?",
+      "alternativas": ["São Paulo", "Minas Gerais", "Espírito Santo", "Bahia"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f3-23",
+      "enunciado": "Manaus teve seu grande auge econômico no século XIX com qual produto?",
+      "alternativas": ["Ouro", "Café", "Borracha", "Cacau"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f3-24",
+      "enunciado": "Qual é o estado com o maior rebanho bovino do Brasil?",
+      "alternativas": ["Minas Gerais", "Goiás", "Pará", "Mato Grosso"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f3-25",
+      "enunciado": "O extremo norte do território brasileiro, o Monte Caburaí, fica em qual estado?",
+      "alternativas": ["Roraima", "Amazonas", "Pará", "Amapá"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f3-26",
+      "enunciado": "O ponto extremo sul do Brasil, o Arroio Chuí, fica em qual estado?",
+      "alternativas": ["Santa Catarina", "Rio Grande do Sul", "Paraná", "São Paulo"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f3-27",
+      "enunciado": "Qual estado é cortado pela Linha do Equador e tem Macapá como capital?",
+      "alternativas": ["Roraima", "Pará", "Amapá", "Amazonas"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f3-28",
+      "enunciado": "Qual é o maior lago/reservatório... ou seja, qual é o maior estado do Nordeste em área?",
+      "alternativas": ["Pernambuco", "Ceará", "Piauí", "Bahia"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f3-29",
+      "enunciado": "Qual cidade catarinense é famosa pela colonização e cultura alemã (Oktoberfest)?",
+      "alternativas": ["Blumenau", "Florianópolis", "Joinville", "Criciúma"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f3-30",
+      "enunciado": "Qual estado faz fronteira com a Venezuela no extremo norte do Brasil?",
+      "alternativas": ["Amapá", "Roraima", "Acre", "Rondônia"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f3-01",
+      "enunciado": "Qual álbum de João Gilberto, de 1959, é considerado o marco inicial da bossa nova?",
+      "alternativas": ["Chega de Saudade", "Getz/Gilberto", "Amoroso", "João Voz e Violão"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f3-02",
+      "enunciado": "Geraldo Vandré cantou \"Pra Não Dizer que Não Falei das Flores\" em um festival de qual ano?",
+      "alternativas": ["1958", "1968", "1978", "1988"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f3-03",
+      "enunciado": "O movimento musical de Recife, criado por Chico Science nos anos 90, ficou conhecido como?",
+      "alternativas": ["Tropicália", "Jovem Guarda", "Manguebeat", "Clube da Esquina"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f3-04",
+      "enunciado": "A música \"Faroeste Caboclo\" é de qual banda?",
+      "alternativas": ["Titãs", "Paralamas do Sucesso", "Capital Inicial", "Legião Urbana"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f3-05",
+      "enunciado": "Raul Seixas lançou \"Metamorfose Ambulante\" e \"Ouro de Tolo\" em qual década?",
+      "alternativas": ["Anos 1970", "Anos 1990", "Anos 2010", "Anos 1950"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f3-06",
+      "enunciado": "A banda Sepultura, referência mundial do heavy metal, surgiu em qual cidade?",
+      "alternativas": ["São Paulo", "Belo Horizonte", "Rio de Janeiro", "Porto Alegre"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f3-07",
+      "enunciado": "O disco \"Tropicália ou Panis et Circensis\", manifesto do movimento, é de qual ano?",
+      "alternativas": ["1958", "1962", "1968", "1975"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f3-08",
+      "enunciado": "Quem foi o vocalista da banda O Rappa?",
+      "alternativas": ["Chorão", "Cazuza", "Herbert Vianna", "Marcelo Falcão"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f3-09",
+      "enunciado": "A banda Novos Baianos lançou o clássico \"Acabou Chorare\" em qual década?",
+      "alternativas": ["Anos 1970", "Anos 1990", "Anos 2010", "Anos 1950"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f3-10",
+      "enunciado": "Os Titãs lançaram o influente álbum \"Cabeça Dinossauro\" em que década?",
+      "alternativas": ["Anos 1960", "Anos 1980", "Anos 2000", "Anos 1940"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f3-11",
+      "enunciado": "O \"Clube da Esquina\" reuniu Milton Nascimento e qual outro músico?",
+      "alternativas": ["Caetano Veloso", "Chico Buarque", "Lô Borges", "Djavan"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f3-12",
+      "enunciado": "A banda Blitz iniciou o \"BRock\" dos anos 80 com qual hit?",
+      "alternativas": ["Será", "Ideologia", "Tempo Perdido", "Você Não Soube me Amar"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f3-13",
+      "enunciado": "Cartola foi um dos fundadores de qual escola de samba do Rio?",
+      "alternativas": ["Estação Primeira de Mangueira", "Portela", "Beija-Flor", "Salgueiro"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f3-14",
+      "enunciado": "Noel Rosa, gênio do samba carioca, viveu e compôs em qual década?",
+      "alternativas": ["Anos 1990", "Anos 1930", "Anos 1960", "Anos 2010"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f3-15",
+      "enunciado": "O grupo Os Mutantes tinha Rita Lee e os irmãos de qual sobrenome?",
+      "alternativas": ["Carlos", "Veloso", "Dias Baptista", "Buarque"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f3-16",
+      "enunciado": "A banda Legião Urbana surgiu em qual cidade?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Belo Horizonte", "Brasília"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f3-17",
+      "enunciado": "Quem apresentou o programa musical \"O Fino da Bossa\" nos anos 1960?",
+      "alternativas": ["Elis Regina", "Gal Costa", "Maria Bethânia", "Nara Leão"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f3-18",
+      "enunciado": "A \"Vanguarda Paulista\", com Itamar Assumpção e Arrigo Barnabé, foi um movimento de qual década?",
+      "alternativas": ["Anos 1960", "Anos 1980", "Anos 2000", "Anos 1930"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f3-19",
+      "enunciado": "Pixinguinha é considerado um dos maiores mestres de qual gênero instrumental?",
+      "alternativas": ["Rock", "Bossa nova", "Choro", "Funk"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f3-20",
+      "enunciado": "Secos & Molhados estourou com seu primeiro álbum em qual década?",
+      "alternativas": ["Anos 1950", "Anos 1990", "Anos 2010", "Anos 1970"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f3-21",
+      "enunciado": "A música \"Aquele Abraço\", de Gilberto Gil, é do final de qual década?",
+      "alternativas": ["Anos 1960", "Anos 1980", "Anos 2000", "Anos 1940"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f3-22",
+      "enunciado": "Chico Science, líder do manguebeat, faleceu precocemente em qual década?",
+      "alternativas": ["Anos 1980", "Anos 1990", "Anos 2010", "Anos 1960"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f3-23",
+      "enunciado": "A banda Camisa de Vênus, do rock dos anos 80, surgiu em qual cidade?",
+      "alternativas": ["São Paulo", "Brasília", "Salvador", "Curitiba"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f3-24",
+      "enunciado": "Os festivais de música da TV, que revelaram a MPB, foram um fenômeno de qual década?",
+      "alternativas": ["Anos 1990", "Anos 1980", "Anos 2010", "Anos 1960"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f3-25",
+      "enunciado": "A banda de Brasília Aborto Elétrico deu origem à Legião Urbana e a qual outra banda?",
+      "alternativas": ["Capital Inicial", "Titãs", "Skank", "Jota Quest"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f3-26",
+      "enunciado": "Tom Zé, artista experimental, é associado a qual movimento dos anos 1960?",
+      "alternativas": ["Jovem Guarda", "Tropicalismo", "Pagode", "Axé"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f3-27",
+      "enunciado": "A canção \"Construção\" (1971), de Chico Buarque, é famosa por terminar todos os versos em palavras de qual tipo?",
+      "alternativas": ["Oxítonas", "Paroxítonas", "Proparoxítonas", "Monossílabas"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f3-28",
+      "enunciado": "Belchior, autor de \"Como Nossos Pais\", marcou a MPB de qual década?",
+      "alternativas": ["Anos 1950", "Anos 1990", "Anos 2010", "Anos 1970"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f3-29",
+      "enunciado": "Qual gênero de matriz africana, do Sudeste, é considerado um dos ancestrais do samba?",
+      "alternativas": ["Jongo", "Frevo", "Forró", "Maracatu"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f3-30",
+      "enunciado": "A banda Barão Vermelho, de Cazuza e Roberto Frejat, surgiu em qual cidade?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Porto Alegre", "Recife"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f3-01",
+      "enunciado": "O acarajé é uma comida ritual ligada a qual orixá no candomblé?",
+      "alternativas": ["Iansã", "Oxalá", "Ogum", "Oxóssi"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f3-02",
+      "enunciado": "O caruru, além de prato, é uma oferenda associada a quais santos/entidades gêmeos?",
+      "alternativas": ["São Jorge", "Cosme e Damião (ibejis)", "São Pedro", "São Benedito"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f3-03",
+      "enunciado": "O pirão, acompanhamento de peixe, é feito de farinha de mandioca com o quê?",
+      "alternativas": ["Leite", "Água pura", "Caldo (de peixe ou carne)", "Vinho"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f3-04",
+      "enunciado": "A moqueca capixaba ganha sua cor avermelhada com qual condimento?",
+      "alternativas": ["Páprica", "Açafrão da Índia", "Pimenta-do-reino", "Urucum (colorau)"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f3-05",
+      "enunciado": "Os queijos \"do Serro\" e \"Canastra\" são tradicionais de qual estado?",
+      "alternativas": ["Minas Gerais", "São Paulo", "Goiás", "Bahia"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f3-06",
+      "enunciado": "O \"cuxá\", do Maranhão, é feito com a folha de qual planta?",
+      "alternativas": ["Couve", "Vinagreira (azedinha)", "Espinafre", "Taioba"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f3-07",
+      "enunciado": "O frango com quiabo, servido com angu, é um prato típico de qual estado?",
+      "alternativas": ["Bahia", "Pará", "Minas Gerais", "Ceará"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f3-08",
+      "enunciado": "O \"biju\" (beiju), fino e crocante, é feito a partir de qual ingrediente?",
+      "alternativas": ["Milho", "Trigo", "Arroz", "Mandioca/tapioca"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f3-09",
+      "enunciado": "A buchada usa o estômago de qual animal, no preparo nordestino?",
+      "alternativas": ["Bode ou carneiro", "Boi", "Porco", "Galinha"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f3-10",
+      "enunciado": "O \"quentão\" e o \"vinho quente\" são bebidas típicas de qual festa?",
+      "alternativas": ["Carnaval", "Festas juninas", "Réveillon", "Páscoa"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f3-11",
+      "enunciado": "O \"doce de buriti\" e o pequi são ingredientes típicos de qual bioma/região?",
+      "alternativas": ["Litoral", "Pampa", "Cerrado/Centro-Oeste", "Mata Atlântica"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f3-12",
+      "enunciado": "A pamonha e o curau são iguarias preparadas na época da colheita de qual produto?",
+      "alternativas": ["Cana", "Mandioca", "Café", "Milho"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f3-13",
+      "enunciado": "O \"arroz de carreteiro\" gaúcho leva tradicionalmente qual carne?",
+      "alternativas": ["Charque (carne seca)", "Frango", "Peixe", "Bode"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f3-14",
+      "enunciado": "A moqueca no Espírito Santo é tradicionalmente preparada em panela de quê?",
+      "alternativas": ["Ferro", "Barro", "Alumínio", "Cobre"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f3-15",
+      "enunciado": "A 'broa de fubá', pão tradicional do interior, é feita de farinha de quê?",
+      "alternativas": ["Trigo", "Mandioca", "Milho", "Arroz"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f3-16",
+      "enunciado": "A 'paçoca' doce, típica das festas juninas, é feita de quê?",
+      "alternativas": ["Coco", "Castanha", "Gergelim", "Amendoim"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f3-17",
+      "enunciado": "O 'queijo coalho' recebe esse nome por usar o quê no leite?",
+      "alternativas": ["Coalho (enzima que talha o leite)", "Vinagre", "Limão", "Sal apenas"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f3-18",
+      "enunciado": "A 'rapadura' é feita a partir de qual matéria-prima?",
+      "alternativas": ["Leite", "Caldo de cana desidratado", "Milho", "Mandioca"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f3-19",
+      "enunciado": "O \"angu\" mineiro é equivalente a qual prato da culinária italiana?",
+      "alternativas": ["Risoto", "Gnocchi", "Polenta", "Lasanha"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f3-20",
+      "enunciado": "O \"biscoito de polvilho\" é feito com o polvilho extraído de qual planta?",
+      "alternativas": ["Milho", "Trigo", "Batata", "Mandioca"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f3-21",
+      "enunciado": "O peixe \"pirarucu\" é considerado um dos maiores peixes de qual ambiente?",
+      "alternativas": ["Água doce (rios)", "Mar profundo", "Mangue", "Lagos salgados"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f3-22",
+      "enunciado": "A 'casquinha de siri' é um petisco típico de qual ambiente?",
+      "alternativas": ["Sertão", "Litoral (praias)", "Serra", "Cerrado"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f3-23",
+      "enunciado": "A diferença entre 'carne de sol' e 'charque' está principalmente em quê?",
+      "alternativas": ["No tipo de animal", "Na cor", "Na quantidade de sal e na secagem", "No tempo de cozimento"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f3-24",
+      "enunciado": "O tacacá é tradicionalmente servido em qual recipiente?",
+      "alternativas": ["Prato fundo", "Tigela de vidro", "Caneca de metal", "Cuia"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f3-25",
+      "enunciado": "O 'tutano', apreciado em alguns pratos, é a parte interna de quê?",
+      "alternativas": ["Do osso", "Do fígado", "Do coração", "Do estômago"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f3-26",
+      "enunciado": "A 'galinha de cabidela' (ou 'ao molho pardo') é preparada com o quê do animal?",
+      "alternativas": ["O fígado", "O sangue", "Os ovos", "A pele"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f3-27",
+      "enunciado": "A 'tapioca' é a fécula (amido) extraída de qual raiz?",
+      "alternativas": ["Batata", "Inhame", "Mandioca", "Cará"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f3-28",
+      "enunciado": "O 'pé de moleque' é um doce de festa junina feito de açúcar (ou rapadura) com o quê?",
+      "alternativas": ["Coco", "Castanha", "Gergelim", "Amendoim"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f3-29",
+      "enunciado": "O 'sagu', sobremesa típica do Sul, é tradicionalmente cozido em qual bebida?",
+      "alternativas": ["Vinho tinto", "Leite", "Café", "Suco de laranja"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f3-30",
+      "enunciado": "O 'baba de moça' e o 'quindim' são doces que levam em grande quantidade o quê?",
+      "alternativas": ["Chocolate", "Gema de ovo (e coco)", "Leite condensado", "Farinha"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f3-01",
+      "enunciado": "Quem é conhecido como o \"Patriarca da Independência\", articulador da emancipação do Brasil?",
+      "alternativas": ["José Bonifácio", "Tiradentes", "Dom Pedro I", "Duque de Caxias"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f3-02",
+      "enunciado": "Qual tratado, de 1903, garantiu a incorporação do Acre ao Brasil?",
+      "alternativas": ["Tratado de Tordesilhas", "Tratado de Petrópolis", "Tratado de Madri", "Tratado de Santo Ildefonso"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f3-03",
+      "enunciado": "Qual diplomata negociou a anexação do Acre, sendo patrono da diplomacia brasileira?",
+      "alternativas": ["José Bonifácio", "Rui Barbosa", "Barão do Rio Branco", "Oswaldo Aranha"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f3-04",
+      "enunciado": "Qual ato institucional de 1968 endureceu a ditadura, fechando o Congresso e suspendendo direitos?",
+      "alternativas": ["AI-1", "AI-2", "AI-3", "AI-5"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f3-05",
+      "enunciado": "Quem foi o líder político da Revolução Farroupilha, no Rio Grande do Sul?",
+      "alternativas": ["Bento Gonçalves", "Antônio Conselheiro", "Frei Caneca", "João Cândido"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f3-06",
+      "enunciado": "Quem foi eleito presidente pelo Colégio Eleitoral em 1985, mas morreu antes de assumir?",
+      "alternativas": ["José Sarney", "Tancredo Neves", "Ulysses Guimarães", "Fernando Collor"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f3-07",
+      "enunciado": "Quem assumiu a Presidência após a morte de Tancredo Neves, em 1985?",
+      "alternativas": ["Itamar Franco", "Ulysses Guimarães", "José Sarney", "Fernando Henrique"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f3-08",
+      "enunciado": "A Constituição de 1988 ganhou qual apelido por ampliar direitos sociais?",
+      "alternativas": ["Constituição Polaca", "Constituição Imperial", "Constituição Provisória", "Constituição Cidadã"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f3-09",
+      "enunciado": "Qual presidente apelidado de \"Marechal de Ferro\" consolidou a República nos seus primeiros anos?",
+      "alternativas": ["Floriano Peixoto", "Prudente de Morais", "Campos Sales", "Rodrigues Alves"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f3-10",
+      "enunciado": "A \"Guerra dos Emboabas\", no início do século XVIII, disputou as minas de ouro entre paulistas e quem?",
+      "alternativas": ["Os indígenas", "Forasteiros (baianos e portugueses)", "Os holandeses", "Os franceses"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f3-11",
+      "enunciado": "A Lei da Anistia, que perdoou crimes políticos do período militar, foi de que ano?",
+      "alternativas": ["1964", "1968", "1979", "1985"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f3-12",
+      "enunciado": "Quem criou e implementou o Plano Real como ministro da Fazenda, antes de ser presidente?",
+      "alternativas": ["Itamar Franco", "Pedro Malan", "Maílson da Nóbrega", "Fernando Henrique Cardoso"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f3-13",
+      "enunciado": "Quem foi o primeiro presidente civil da chamada República Velha?",
+      "alternativas": ["Prudente de Morais", "Marechal Deodoro", "Floriano Peixoto", "Campos Sales"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f3-14",
+      "enunciado": "Qual revolta de marinheiros negros, em 1910, protestava contra os castigos físicos?",
+      "alternativas": ["Revolta da Vacina", "Revolta da Chibata", "Sabinada", "Cabanagem"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f3-15",
+      "enunciado": "O movimento do \"tenentismo\", nos anos 1920, foi formado por quem?",
+      "alternativas": ["Operários", "Camponeses", "Jovens oficiais do Exército", "Estudantes"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f3-16",
+      "enunciado": "Após a renúncia de Jânio Quadros, quem assumiu a Presidência em 1961?",
+      "alternativas": ["Juscelino Kubitschek", "Tancredo Neves", "Café Filho", "João Goulart (Jango)"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f3-17",
+      "enunciado": "A figura militar que liderou o golpe e a Proclamação da República foi...",
+      "alternativas": ["Marechal Deodoro da Fonseca", "Duque de Caxias", "Floriano Peixoto", "Marechal Rondon"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f3-18",
+      "enunciado": "Quem foi o último presidente do regime militar, que conduziu a abertura política?",
+      "alternativas": ["Médici", "João Figueiredo", "Geisel", "Costa e Silva"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f3-19",
+      "enunciado": "A \"política dos governadores\", que dava poder às oligarquias estaduais, foi instituída por quem?",
+      "alternativas": ["Prudente de Morais", "Floriano Peixoto", "Campos Sales", "Rodrigues Alves"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f3-20",
+      "enunciado": "A Intentona Comunista, tentativa de levante de militares ligados ao PCB, ocorreu em que ano?",
+      "alternativas": ["1922", "1924", "1930", "1935"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f3-21",
+      "enunciado": "Qual conflito armado, abafado pelo regime militar nos anos 1970, ocorreu no sul do Pará?",
+      "alternativas": ["Guerrilha do Araguaia", "Revolta de Juazeiro", "Coluna Prestes", "Guerra de Canudos"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f3-22",
+      "enunciado": "O movimento de extrema-direita liderado por Plínio Salgado nos anos 1930 era o...",
+      "alternativas": ["Comunismo", "Integralismo", "Anarquismo", "Positivismo"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f3-23",
+      "enunciado": "Qual revolta de 1893-1895 ocorreu na Marinha, contra o governo de Floriano Peixoto?",
+      "alternativas": ["Cabanagem", "Balaiada", "Revolta da Armada", "Sabinada"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f3-24",
+      "enunciado": "A abdicação de Dom Pedro I, em 1831, foi precipitada por qual episódio no Rio?",
+      "alternativas": ["A Guerra dos Mascates", "A Inconfidência", "A Cabanagem", "A Noite das Garrafadas"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f3-25",
+      "enunciado": "Quem foi o famoso empresário e industrial pioneiro do Império, ligado à primeira ferrovia?",
+      "alternativas": ["Barão de Mauá", "Visconde de Cairu", "Duque de Caxias", "Barão do Rio Branco"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f3-26",
+      "enunciado": "Qual lei de 1885 libertava os escravizados com mais de 60 anos?",
+      "alternativas": ["Lei Áurea", "Lei do Sexagenário", "Lei do Ventre Livre", "Lei Eusébio de Queirós"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f3-27",
+      "enunciado": "A crise econômica especulativa do início da República ficou conhecida como...",
+      "alternativas": ["Crise de 1929", "Confisco", "Encilhamento", "Moratória"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f3-28",
+      "enunciado": "Qual líder religioso do Ceará tornou-se figura mítica e política no início do século XX?",
+      "alternativas": ["Antônio Conselheiro", "Frei Caneca", "Frei Galvão", "Padre Cícero"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f3-29",
+      "enunciado": "Quem liderou a Confederação do Equador e foi executado em 1825?",
+      "alternativas": ["Frei Caneca", "Tiradentes", "Bento Gonçalves", "Felipe dos Santos"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f3-30",
+      "enunciado": "Durante a União Ibérica (1580-1640), o Brasil esteve sob domínio de qual coroa?",
+      "alternativas": ["Francesa", "Espanhola", "Inglesa", "Holandesa"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f3-01",
+      "enunciado": "Qual sistema de governo o Brasil adota, em que o presidente é chefe de Estado e de governo?",
+      "alternativas": ["Presidencialismo", "Parlamentarismo", "Monarquia", "Semipresidencialismo"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f3-02",
+      "enunciado": "Quantos ministros compõem o Supremo Tribunal Federal (STF)?",
+      "alternativas": ["9", "11", "15", "21"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f3-03",
+      "enunciado": "Qual é a idade mínima para se candidatar a presidente da República?",
+      "alternativas": ["21 anos", "30 anos", "35 anos", "40 anos"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f3-04",
+      "enunciado": "Qual é a idade mínima para se candidatar a vereador?",
+      "alternativas": ["16 anos", "21 anos", "25 anos", "18 anos"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f3-05",
+      "enunciado": "Quando ocorre o segundo turno em uma eleição majoritária?",
+      "alternativas": ["Quando nenhum candidato obtém mais da metade dos votos válidos", "Sempre", "Quando há empate", "Quando o TSE decide"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f3-06",
+      "enunciado": "Para deputados e vereadores, o Brasil usa qual sistema eleitoral?",
+      "alternativas": ["Majoritário", "Proporcional", "Distrital puro", "Por sorteio"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f3-07",
+      "enunciado": "Uma Proposta de Emenda à Constituição (PEC) precisa de qual aprovação?",
+      "alternativas": ["Maioria simples", "Metade mais um", "3/5 (60%) em dois turnos nas duas casas", "Aprovação do STF"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f3-08",
+      "enunciado": "Qual recurso jurídico protege a liberdade de locomoção (ir e vir) de uma pessoa?",
+      "alternativas": ["Mandado de segurança", "Habeas data", "Ação popular", "Habeas corpus"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f3-09",
+      "enunciado": "O processo de impeachment do presidente deve ser autorizado primeiro por qual casa?",
+      "alternativas": ["Câmara dos Deputados", "Senado", "STF", "TSE"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f3-10",
+      "enunciado": "Quantos votos são necessários na Câmara para autorizar a abertura de um impeachment (2/3)?",
+      "alternativas": ["257", "342", "171", "400"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f3-11",
+      "enunciado": "Qual é a validade inicial de uma Medida Provisória (MP) editada pelo presidente?",
+      "alternativas": ["30 dias", "45 dias", "60 dias (prorrogáveis)", "1 ano"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f3-12",
+      "enunciado": "Na linha de sucessão presidencial, quem vem logo após o vice-presidente?",
+      "alternativas": ["O presidente do STF", "O ministro da Justiça", "O presidente do Senado", "O presidente da Câmara dos Deputados"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f3-13",
+      "enunciado": "Até qual idade os ministros do STF podem permanecer no cargo (aposentadoria compulsória)?",
+      "alternativas": ["75 anos", "65 anos", "70 anos", "80 anos"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f3-14",
+      "enunciado": "Para senadores e prefeitos, o Brasil usa qual sistema eleitoral?",
+      "alternativas": ["Proporcional", "Majoritário", "Por sorteio", "Indicação"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f3-15",
+      "enunciado": "Como são chamadas as cláusulas da Constituição que NÃO podem ser abolidas (ex.: voto e federação)?",
+      "alternativas": ["Cláusulas gerais", "Cláusulas provisórias", "Cláusulas pétreas", "Cláusulas temporárias"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f3-16",
+      "enunciado": "O órgão que controla administrativamente o Poder Judiciário é o...",
+      "alternativas": ["STF", "TSE", "TCU", "CNJ (Conselho Nacional de Justiça)"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f3-17",
+      "enunciado": "Qual recurso protege um \"direito líquido e certo\" violado por autoridade pública?",
+      "alternativas": ["Mandado de segurança", "Habeas corpus", "Habeas data", "Fiança"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f3-18",
+      "enunciado": "Qual é a idade mínima para se candidatar a deputado federal ou estadual?",
+      "alternativas": ["18 anos", "21 anos", "25 anos", "30 anos"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f3-19",
+      "enunciado": "O segundo turno para prefeito só ocorre em municípios com mais de quantos eleitores?",
+      "alternativas": ["50 mil", "100 mil", "200 mil", "1 milhão"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f3-20",
+      "enunciado": "Quem preside o Congresso Nacional (sessões conjuntas)?",
+      "alternativas": ["O presidente da República", "O presidente do STF", "O presidente da Câmara", "O presidente do Senado"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f3-21",
+      "enunciado": "Cada município brasileiro tem sua própria lei de organização, chamada de...",
+      "alternativas": ["Lei Orgânica", "Constituição Municipal", "Estatuto da Cidade", "Decreto Local"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f3-22",
+      "enunciado": "Cada estado brasileiro possui o seu próprio documento máximo, chamado de...",
+      "alternativas": ["Lei Orgânica", "Constituição Estadual", "Regimento Interno", "Plano Diretor"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f3-23",
+      "enunciado": "A ação usada para questionar se uma lei contraria a Constituição, julgada pelo STF, é a...",
+      "alternativas": ["Ação popular", "Ação civil pública", "ADI (Ação Direta de Inconstitucionalidade)", "Mandado de injunção"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f3-24",
+      "enunciado": "O TCU é um tribunal de qual natureza?",
+      "alternativas": ["Penal", "Eleitoral", "Trabalhista", "De contas (fiscalização financeira)"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f3-25",
+      "enunciado": "A maioria absoluta corresponde a quantos dos membros de uma casa?",
+      "alternativas": ["Mais da metade do total de membros", "Os presentes na sessão", "Um terço", "Dois terços"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f3-26",
+      "enunciado": "Qual é a idade mínima para se candidatar ao Senado?",
+      "alternativas": ["21 anos", "35 anos", "30 anos", "40 anos"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f3-27",
+      "enunciado": "O voto é obrigatório no Brasil para cidadãos de qual faixa etária?",
+      "alternativas": ["16 a 60 anos", "Acima de 70 anos", "Entre 18 e 70 anos", "Apenas aos 18 anos"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f3-28",
+      "enunciado": "Quem assume a Presidência se o presidente e o vice não puderem exercer o cargo?",
+      "alternativas": ["O ministro da Defesa", "O governador de SP", "O senador mais votado", "O presidente da Câmara (interinamente)"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f3-29",
+      "enunciado": "Como são chamados os atos com força de lei editados pelo presidente em casos de urgência?",
+      "alternativas": ["Medidas provisórias", "Emendas", "Súmulas", "Portarias do Congresso"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f3-30",
+      "enunciado": "Quais entes formam a Federação brasileira?",
+      "alternativas": ["Apenas a União", "União, estados, Distrito Federal e municípios", "Apenas estados e municípios", "União e estados apenas"],
+      "correta": 1
     }
   ],
   "4": [
@@ -19984,6 +22684,1086 @@
       "id": "rec-f4-30",
       "enunciado": "Qual é o maior país do mundo em população que tem o português como língua oficial?",
       "alternativas": ["Portugal", "Brasil", "Angola", "Moçambique"],
+      "correta": 1
+    },
+    {
+      "id": "fol-f4-01",
+      "enunciado": "Que data foi instituída no Brasil como o \"Dia do Saci\", em contraposição ao Halloween?",
+      "alternativas": ["31 de outubro", "22 de agosto", "13 de maio", "7 de setembro"],
+      "correta": 0
+    },
+    {
+      "id": "fol-f4-02",
+      "enunciado": "A Cuca brasileira tem origem em qual personagem do folclore português?",
+      "alternativas": ["A Moura", "A Coca (dragão/serpente)", "A Bruxa do Mar", "A Dama Pé-de-Cabra"],
+      "correta": 1
+    },
+    {
+      "id": "fol-f4-03",
+      "enunciado": "A palavra \"Curupira\", de origem tupi, é associada a qual significado?",
+      "alternativas": ["Senhor do fogo", "Espírito da água", "Corpo de criança/menino", "Guardião do céu"],
+      "correta": 2
+    },
+    {
+      "id": "fol-f4-04",
+      "enunciado": "O frevo foi reconhecido pela UNESCO como Patrimônio Cultural Imaterial da Humanidade em qual ano?",
+      "alternativas": ["1998", "2005", "2009", "2012"],
+      "correta": 3
+    },
+    {
+      "id": "fol-f4-05",
+      "enunciado": "A roda de capoeira também foi reconhecida como Patrimônio Imaterial da Humanidade por qual organização?",
+      "alternativas": ["UNESCO", "OEA", "Mercosul", "OMC"],
+      "correta": 0
+    },
+    {
+      "id": "fol-f4-06",
+      "enunciado": "A palavra \"Caipora\" vem do tupi e significa, aproximadamente, o quê?",
+      "alternativas": ["Filho da noite", "Morador do mato", "Espírito das águas", "Senhor do vento"],
+      "correta": 1
+    },
+    {
+      "id": "fol-f4-07",
+      "enunciado": "Qual orixá feminino é associado aos rios e à água doce?",
+      "alternativas": ["Iemanjá", "Iansã", "Oxum", "Nanã"],
+      "correta": 2
+    },
+    {
+      "id": "fol-f4-08",
+      "enunciado": "Quem cunhou o termo \"folclore\" (folk-lore), em 1846?",
+      "alternativas": ["Câmara Cascudo", "Mário de Andrade", "Sílvio Romero", "William Thoms"],
+      "correta": 3
+    },
+    {
+      "id": "fol-f4-09",
+      "enunciado": "O Boi-Bumbá de Parintins tem origem ligada à migração de trabalhadores de qual estado?",
+      "alternativas": ["Maranhão", "Bahia", "Ceará", "Pará"],
+      "correta": 0
+    },
+    {
+      "id": "fol-f4-10",
+      "enunciado": "Qual é a literatura popular em verso, impressa em folhetos, típica do Nordeste?",
+      "alternativas": ["Repente", "Literatura de cordel", "Aboio", "Toada"],
+      "correta": 1
+    },
+    {
+      "id": "fol-f4-11",
+      "enunciado": "Os \"sotaques\" (estilos) de matraca, zabumba e orquestra são variações de qual manifestação maranhense?",
+      "alternativas": ["Tambor de Crioula", "Cacuriá", "Bumba meu Boi", "Carimbó"],
+      "correta": 2
+    },
+    {
+      "id": "fol-f4-12",
+      "enunciado": "A Festa do Pau da Bandeira de Santo Antônio, com um enorme mastro, ocorre em Barbalha, no quê?",
+      "alternativas": ["No Maranhão", "Na Bahia", "Em Pernambuco", "No Ceará"],
+      "correta": 3
+    },
+    {
+      "id": "fol-f4-13",
+      "enunciado": "Qual orixá masculino é associado à justiça, ao trovão e ao fogo?",
+      "alternativas": ["Xangô", "Ogum", "Oxóssi", "Omolu"],
+      "correta": 0
+    },
+    {
+      "id": "fol-f4-14",
+      "enunciado": "O \"Cavalo-Marinho\", folguedo com dezenas de personagens, é típico de qual região?",
+      "alternativas": ["Pampa gaúcho", "Zona da Mata (PE/PB)", "Pantanal", "Vale do Ribeira"],
+      "correta": 1
+    },
+    {
+      "id": "fol-f4-15",
+      "enunciado": "A figura mítica da \"Mãe do Ouro\", que aparece como uma bola de fogo, é forte em qual estado?",
+      "alternativas": ["Amazonas", "Rio Grande do Sul", "Minas Gerais", "Santa Catarina"],
+      "correta": 2
+    },
+    {
+      "id": "fol-f4-16",
+      "enunciado": "A Marujada e o Boi de São Benedito fazem parte das tradições religiosas e festivas de qual tipo?",
+      "alternativas": ["Protestantes", "Espíritas", "Budistas", "Católicas populares e afro-brasileiras"],
+      "correta": 3
+    },
+    {
+      "id": "fol-f4-17",
+      "enunciado": "O Tambor de Crioula, do Maranhão, foi reconhecido como patrimônio cultural por qual instituição brasileira?",
+      "alternativas": ["IPHAN", "IBAMA", "FUNAI", "INCRA"],
+      "correta": 0
+    },
+    {
+      "id": "fol-f4-18",
+      "enunciado": "Qual destas é uma dança/folguedo de São Paulo e Minas, em fileiras, com sapateado e palmas?",
+      "alternativas": ["Frevo", "Catira (cateretê)", "Maracatu", "Carimbó"],
+      "correta": 1
+    },
+    {
+      "id": "fol-f4-19",
+      "enunciado": "Na lenda, o Boto disfarça-se de rapaz elegante e usa o chapéu para esconder o quê?",
+      "alternativas": ["O cabelo molhado", "Os olhos vermelhos", "O orifício no topo da cabeça (respiradouro)", "As orelhas"],
+      "correta": 2
+    },
+    {
+      "id": "fol-f4-20",
+      "enunciado": "O Reisado, manifestação natalina do Nordeste, é uma variação de qual tradição?",
+      "alternativas": ["Do Carnaval", "Da Festa Junina", "Do Bumba meu Boi apenas", "Da Folia de Reis"],
+      "correta": 3
+    },
+    {
+      "id": "fol-f4-21",
+      "enunciado": "Qual entidade do folclore é descrita como protetora dos animais, punindo caçadores gananciosos?",
+      "alternativas": ["Caipora / Curupira", "Saci", "Iara", "Boitatá"],
+      "correta": 0
+    },
+    {
+      "id": "fol-f4-22",
+      "enunciado": "A Congada (ou Congado) encena a coroação de reis de qual origem?",
+      "alternativas": ["Indígena", "Africana (reis do Congo)", "Portuguesa", "Holandesa"],
+      "correta": 1
+    },
+    {
+      "id": "fol-f4-23",
+      "enunciado": "Qual instrumento de fricção, parecido com um pequeno violino rústico, é usado em folguedos do Nordeste?",
+      "alternativas": ["Cavaquinho", "Bandolim", "Rabeca", "Viola de cocho"],
+      "correta": 2
+    },
+    {
+      "id": "fol-f4-24",
+      "enunciado": "A Festa do Divino Espírito Santo, com a figura do Imperador do Divino, tem origem em qual cultura?",
+      "alternativas": ["Indígena", "Africana", "Asiática", "Portuguesa (católica)"],
+      "correta": 3
+    },
+    {
+      "id": "fol-f4-25",
+      "enunciado": "O \"aboio\" é um canto tradicional ligado a qual atividade do sertão?",
+      "alternativas": ["O trabalho com o gado (vaqueiros)", "A pesca", "A colheita de cana", "A mineração"],
+      "correta": 0
+    },
+    {
+      "id": "fol-f4-26",
+      "enunciado": "Qual ritmo paraense, de origem indígena e africana, virou patrimônio cultural do Brasil?",
+      "alternativas": ["Frevo", "Carimbó", "Coco", "Maracatu"],
+      "correta": 1
+    },
+    {
+      "id": "fol-f4-27",
+      "enunciado": "A 'viola de cocho' é um instrumento típico de qual região do Brasil?",
+      "alternativas": ["Nordeste", "Sul", "Centro-Oeste (Pantanal)", "Norte"],
+      "correta": 2
+    },
+    {
+      "id": "fol-f4-28",
+      "enunciado": "O Maracatu Nação (de baque virado) está ligado à coroação dos chamados reis do quê?",
+      "alternativas": ["Reis do Carnaval", "Reis indígenas", "Reis caiçaras", "Reis do Congo (coroação negra)"],
+      "correta": 3
+    },
+    {
+      "id": "fol-f4-29",
+      "enunciado": "Qual personagem do folclore do Sul protege as estâncias e os animais, ligado à figura de um menino escravizado?",
+      "alternativas": ["Negrinho do Pastoreio", "Boitatá", "Saci", "Lobisomem"],
+      "correta": 0
+    },
+    {
+      "id": "fol-f4-30",
+      "enunciado": "A \"Boiúna\" (ou Cobra Grande), lenda amazônica, é descrita como uma serpente de que tamanho?",
+      "alternativas": ["Pequena e venenosa", "Gigantesca, que vira rios e barcos", "Do tamanho de um braço", "Alada"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f4-01",
+      "enunciado": "Qual foi o estado brasileiro mais recente, criado pela Constituição de 1988?",
+      "alternativas": ["Tocantins", "Mato Grosso do Sul", "Rondônia", "Roraima"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f4-02",
+      "enunciado": "Qual estado tem o maior Produto Interno Bruto (PIB) do Brasil?",
+      "alternativas": ["Rio de Janeiro", "São Paulo", "Minas Gerais", "Paraná"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f4-03",
+      "enunciado": "Aproximadamente quantos municípios o Brasil possui?",
+      "alternativas": ["1.500", "3.000", "5.570", "10.000"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f4-04",
+      "enunciado": "Com qual país o Brasil tem a fronteira terrestre mais extensa?",
+      "alternativas": ["Argentina", "Peru", "Venezuela", "Bolívia"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f4-05",
+      "enunciado": "Qual unidade da federação costuma apresentar o maior Índice de Desenvolvimento Humano (IDH)?",
+      "alternativas": ["Distrito Federal", "São Paulo", "Santa Catarina", "Rio Grande do Sul"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f4-06",
+      "enunciado": "O estado de Tocantins foi desmembrado de qual outro estado?",
+      "alternativas": ["Mato Grosso", "Goiás", "Bahia", "Pará"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f4-07",
+      "enunciado": "Em que ano Brasília foi inaugurada como capital do Brasil?",
+      "alternativas": ["1955", "1958", "1960", "1964"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f4-08",
+      "enunciado": "Quem foi o urbanista responsável pelo plano-piloto (traçado) de Brasília?",
+      "alternativas": ["Oscar Niemeyer", "Roberto Burle Marx", "Juscelino Kubitschek", "Lúcio Costa"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f4-09",
+      "enunciado": "Qual é a cidade mais populosa do Brasil?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f4-10",
+      "enunciado": "A Tríplice Fronteira de Foz do Iguaçu une o Brasil, a Argentina e qual outro país?",
+      "alternativas": ["Uruguai", "Paraguai", "Bolívia", "Chile"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f4-11",
+      "enunciado": "A maior terra indígena do Brasil, a Terra Yanomami, fica principalmente em quais estados?",
+      "alternativas": ["Acre e Rondônia", "Pará e Amapá", "Roraima e Amazonas", "Mato Grosso e Tocantins"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f4-12",
+      "enunciado": "Qual estado tem o maior rebanho bovino e é líder na produção de soja do país?",
+      "alternativas": ["Goiás", "Paraná", "Rio Grande do Sul", "Mato Grosso"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f4-13",
+      "enunciado": "Qual cidade do interior paulista é um grande polo de produção e pesquisa de cana e etanol?",
+      "alternativas": ["Ribeirão Preto", "Santos", "Sorocaba", "São José dos Campos"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f4-14",
+      "enunciado": "O território federal que virou estado em 1988 junto com Roraima foi qual?",
+      "alternativas": ["Rondônia", "Amapá", "Acre", "Tocantins"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f4-15",
+      "enunciado": "A Região Sudeste concentra aproximadamente qual fatia do PIB brasileiro?",
+      "alternativas": ["Cerca de 10%", "Cerca de 25%", "Cerca de metade (50%)", "Cerca de 90%"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f4-16",
+      "enunciado": "O ciclo econômico do ouro, no século XVIII, foi especialmente forte em qual estado?",
+      "alternativas": ["Bahia", "São Paulo", "Goiás", "Minas Gerais"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f4-17",
+      "enunciado": "Qual capital do Nordeste é conhecida como a cidade onde o sol nasce primeiro no Brasil continental?",
+      "alternativas": ["João Pessoa", "Natal", "Recife", "Maceió"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f4-18",
+      "enunciado": "Qual estado do Sul recebeu forte imigração italiana, base de sua produção de vinhos?",
+      "alternativas": ["Paraná", "Rio Grande do Sul", "Santa Catarina", "São Paulo"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f4-19",
+      "enunciado": "Qual é a região brasileira com a menor densidade demográfica (mais vazia)?",
+      "alternativas": ["Sudeste", "Nordeste", "Norte", "Sul"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f4-20",
+      "enunciado": "Qual estado faz fronteira com o maior número de outros países da América do Sul?",
+      "alternativas": ["Acre", "Roraima", "Mato Grosso", "Amazonas"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f4-21",
+      "enunciado": "Qual é a sigla do estado de Minas Gerais?",
+      "alternativas": ["MG", "MS", "MT", "MA"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f4-22",
+      "enunciado": "Qual é a sigla do estado do Rio Grande do Norte?",
+      "alternativas": ["RS", "RN", "RR", "RO"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f4-23",
+      "enunciado": "Qual é a sigla do estado do Pará?",
+      "alternativas": ["PB", "PR", "PA", "PE"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f4-24",
+      "enunciado": "Qual é a sigla do estado do Ceará?",
+      "alternativas": ["CO", "CT", "CB", "CE"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f4-25",
+      "enunciado": "Qual estado nordestino é o maior produtor de frutas irrigadas no Vale do São Francisco (Petrolina)?",
+      "alternativas": ["Pernambuco", "Ceará", "Piauí", "Maranhão"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f4-26",
+      "enunciado": "A cidade de Belo Horizonte foi uma das primeiras cidades brasileiras totalmente o quê?",
+      "alternativas": ["Subterrânea", "Planejada", "Murada", "Flutuante"],
+      "correta": 1
+    },
+    {
+      "id": "reg-f4-27",
+      "enunciado": "A Zona Franca de Manaus é um polo industrial incentivado de qual região?",
+      "alternativas": ["Nordeste", "Centro-Oeste", "Norte", "Sul"],
+      "correta": 2
+    },
+    {
+      "id": "reg-f4-28",
+      "enunciado": "Qual estado brasileiro tem o formato territorial parecido com um coração e a capital Aracaju?",
+      "alternativas": ["Alagoas", "Paraíba", "Rio Grande do Norte", "Sergipe"],
+      "correta": 3
+    },
+    {
+      "id": "reg-f4-29",
+      "enunciado": "Qual capital brasileira é conhecida como a \"capital ecológica\" pelo planejamento urbano e transporte?",
+      "alternativas": ["Curitiba", "Florianópolis", "Belo Horizonte", "Goiânia"],
+      "correta": 0
+    },
+    {
+      "id": "reg-f4-30",
+      "enunciado": "Qual estado abriga grande parte do Pantanal e tem Campo Grande como capital?",
+      "alternativas": ["Mato Grosso", "Mato Grosso do Sul", "Goiás", "Tocantins"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f4-01",
+      "enunciado": "De onde veio o termo \"Tropicália\", que nomeou o movimento de Caetano e Gil?",
+      "alternativas": ["De uma obra do artista Hélio Oiticica", "De um livro de Jorge Amado", "De uma novela", "De um jornal"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f4-02",
+      "enunciado": "Em qual festival de 1967 surgiram \"Alegria, Alegria\" (Caetano) e \"Domingo no Parque\" (Gil)?",
+      "alternativas": ["Festival de Woodstock", "Festival da Record (TV)", "Rock in Rio", "Festival de Montreux"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f4-03",
+      "enunciado": "Qual escritor foi parceiro de Raul Seixas em composições com forte teor esotérico?",
+      "alternativas": ["Jorge Amado", "Carlos Drummond", "Paulo Coelho", "Mário de Andrade"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f4-04",
+      "enunciado": "O disco \"Krig-ha, Bandolo!\", de 1973, é de qual artista?",
+      "alternativas": ["Belchior", "Tim Maia", "Caetano Veloso", "Raul Seixas"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f4-05",
+      "enunciado": "Qual era o nome do manifesto do manguebeat, escrito por Chico Science?",
+      "alternativas": ["Caranguejos com Cérebro", "Manifesto Antropófago", "Pau-Brasil", "Tropicália Total"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f4-06",
+      "enunciado": "Quem foi o principal vocalista e líder dos Novos Baianos?",
+      "alternativas": ["Tom Zé", "Moraes Moreira", "Gilberto Gil", "Jards Macalé"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f4-07",
+      "enunciado": "O tropicalismo terminou simbolicamente em 1968-69 com a prisão e o exílio de quem?",
+      "alternativas": ["Chico Buarque e Elis", "Raul Seixas e Rita Lee", "Caetano Veloso e Gilberto Gil", "Tim Maia e Jorge Ben"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f4-08",
+      "enunciado": "Caetano Veloso gravou o álbum \"Transa\" durante seu exílio em qual cidade?",
+      "alternativas": ["Paris", "Lisboa", "Nova York", "Londres"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f4-09",
+      "enunciado": "Qual é o apelido de infância de Milton Nascimento?",
+      "alternativas": ["Bituca", "Pelé", "Mestre", "Bezerra"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f4-10",
+      "enunciado": "A banda de rock dos anos 80 Camisa de Vênus tinha como vocalista carismático quem?",
+      "alternativas": ["Renato Russo", "Marcelo Nova", "Cazuza", "Herbert Vianna"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f4-11",
+      "enunciado": "O \"samba de breque\", com pausas para falas, tem como grande nome Moreira da Silva, apelidado de?",
+      "alternativas": ["Mangueira", "Sinhô", "Kid Morengueira", "Donga"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f4-12",
+      "enunciado": "Em que década Tim Maia teve sua fase ligada à seita \"Cultura Racional\", lançando os discos \"Racional\"?",
+      "alternativas": ["Anos 1950", "Anos 1990", "Anos 2010", "Anos 1970"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f4-13",
+      "enunciado": "Quem é apontado como o \"pai do samba\" gravado, autor de \"Pelo Telefone\" (1917)?",
+      "alternativas": ["Donga", "Cartola", "Noel Rosa", "Pixinguinha"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f4-14",
+      "enunciado": "A cantora Gal Costa teve sua estreia ligada a qual movimento dos anos 1960?",
+      "alternativas": ["Jovem Guarda", "Tropicalismo", "Manguebeat", "Pagode"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f4-15",
+      "enunciado": "Qual disco-marco da parceria entre Elis Regina e Tom Jobim foi lançado em 1974?",
+      "alternativas": ["Falso Brilhante", "Transversal do Tempo", "Elis & Tom", "Saudade do Brasil"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f4-16",
+      "enunciado": "A \"Jovem Guarda\" tinha um programa de TV homônimo em qual emissora?",
+      "alternativas": ["Globo", "SBT", "Bandeirantes", "Record"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f4-17",
+      "enunciado": "Qual cantora e compositora, da Tropicália, lançou \"Domingo no Parque\"... ops, gravou \"Baby\" na década de 60?",
+      "alternativas": ["Gal Costa", "Maria Bethânia", "Nara Leão", "Elza Soares"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f4-18",
+      "enunciado": "Qual banda de Brasília, além da Legião Urbana, é símbolo do rock dos anos 80?",
+      "alternativas": ["Os Paralamas", "Capital Inicial", "Skank", "Os Mutantes"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f4-19",
+      "enunciado": "O movimento da Bossa Nova nasceu em qual bairro/cidade, ligado a Tom, Vinicius e João Gilberto?",
+      "alternativas": ["Vila Madalena (SP)", "Pelourinho (Salvador)", "Zona Sul do Rio de Janeiro", "Boa Viagem (Recife)"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f4-20",
+      "enunciado": "Elza Soares, cantora reverenciada, é mais ligada a qual gênero?",
+      "alternativas": ["Sertanejo", "Forró", "Bossa nova suave", "Samba"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f4-21",
+      "enunciado": "Qual compositor baiano é autor de clássicos sobre o mar, como \"Marina\" e \"O Mar\"?",
+      "alternativas": ["Dorival Caymmi", "João Gilberto", "Gilberto Gil", "Caetano Veloso"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f4-22",
+      "enunciado": "Em qual década surgiu o \"rap nacional\" como movimento organizado em São Paulo?",
+      "alternativas": ["Anos 1960", "Anos 1980-90", "Anos 2010", "Anos 1940"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f4-23",
+      "enunciado": "Qual cantora, símbolo da black music e do funk brasileiro, gravou \"Você Não Vale Nada\"... ops, qual diva da soul nacional é parceira de Tim Maia em estilo?",
+      "alternativas": ["Rita Lee", "Marisa Monte", "Sandra de Sá", "Gal Costa"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f4-24",
+      "enunciado": "Qual movimento musical mineiro dos anos 1990 teve bandas como Skank e Jota Quest?",
+      "alternativas": ["Tropicália", "Clube da Esquina", "Manguebeat", "Cena pop-rock de BH"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f4-25",
+      "enunciado": "Quem compôs \"Carinhoso\", clássico do choro, com letra de João de Barro?",
+      "alternativas": ["Pixinguinha", "Noel Rosa", "Ary Barroso", "Cartola"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f4-26",
+      "enunciado": "Cazuza lançou seu primeiro álbum solo, \"Exagerado\", em meados de qual década?",
+      "alternativas": ["Anos 1960", "Anos 1980", "Anos 2000", "Anos 1940"],
+      "correta": 1
+    },
+    {
+      "id": "mbd-f4-27",
+      "enunciado": "Qual cantora é uma das maiores intérpretes da MPB, irmã de Caetano Veloso?",
+      "alternativas": ["Gal Costa", "Rita Lee", "Maria Bethânia", "Nara Leão"],
+      "correta": 2
+    },
+    {
+      "id": "mbd-f4-28",
+      "enunciado": "A banda Sepultura ganhou projeção mundial com o álbum \"Roots\", de qual década?",
+      "alternativas": ["Anos 1960", "Anos 1970", "Anos 2010", "Anos 1990"],
+      "correta": 3
+    },
+    {
+      "id": "mbd-f4-29",
+      "enunciado": "Qual artista é considerado pioneiro do \"samba-rock\" e do uso de elementos africanos no pop dos anos 70?",
+      "alternativas": ["Jorge Ben Jor", "Roberto Carlos", "Erasmo Carlos", "Wilson Simonal"],
+      "correta": 0
+    },
+    {
+      "id": "mbd-f4-30",
+      "enunciado": "O \"funk melody\" e o \"funk carioca\" tiveram um boom inicial nos bailes do Rio em qual década?",
+      "alternativas": ["Anos 1950", "Anos 1980-90", "Anos 2020", "Anos 1930"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-01",
+      "enunciado": "A palavra \"moqueca\" tem origem no termo tupi \"pokeka\", que significa o quê?",
+      "alternativas": ["Embrulhar/assar embrulhado", "Cozinhar no fogo", "Peixe grande", "Tempero forte"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-02",
+      "enunciado": "O tucupi cru é tóxico e precisa ser fervido para eliminar qual substância?",
+      "alternativas": ["Sal em excesso", "Açúcar", "Ácido cianídrico (veneno da mandioca brava)", "Glúten"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-03",
+      "enunciado": "O acarajé chegou ao Brasil trazido por quem?",
+      "alternativas": ["Africanos escravizados", "Indígenas", "Imigrantes japoneses", "Colonos alemães"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-04",
+      "enunciado": "O queijo Canastra recebe o nome da Serra da Canastra, localizada em qual estado?",
+      "alternativas": ["Goiás", "Minas Gerais", "Bahia", "São Paulo"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-05",
+      "enunciado": "A maniçoba é apelidada de \"feijoada paraense\", mas em vez de feijão usa o quê?",
+      "alternativas": ["Mandioca ralada", "Arroz", "Folhas de mandioca moídas e cozidas por dias", "Milho"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-06",
+      "enunciado": "O pato no tucupi é tradicionalmente o prato principal de qual festa religiosa, em Belém?",
+      "alternativas": ["Festa de Iemanjá", "Festa do Divino", "São João", "Círio de Nazaré"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f4-07",
+      "enunciado": "A culinária baiana tem forte influência de qual matriz cultural, com o uso do dendê?",
+      "alternativas": ["Africana", "Italiana", "Japonesa", "Alemã"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-08",
+      "enunciado": "A moqueca capixaba usa colorau (urucum) no lugar de qual ingrediente da baiana?",
+      "alternativas": ["Peixe", "Azeite de dendê", "Cebola", "Tomate"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-09",
+      "enunciado": "O doce de leite, segundo a lenda, teria surgido de um descuido ao aquecer demais o quê?",
+      "alternativas": ["Café com açúcar", "Calda de frutas", "Leite com açúcar", "Mel com água"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-10",
+      "enunciado": "O \"churrasco\" gaúcho tem origem ligada a qual atividade dos pampas?",
+      "alternativas": ["Pesca no mar", "Plantio de trigo", "Mineração", "Lida com o gado (pecuária)"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f4-11",
+      "enunciado": "A 'farinha de tapioca' e a 'farinha de mandioca' vêm da mesma raiz. Qual é ela?",
+      "alternativas": ["Mandioca", "Batata-doce", "Inhame", "Cará"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-12",
+      "enunciado": "O 'cuscuz' chegou ao Brasil por influência árabe-portuguesa, sendo adaptado aqui com o quê?",
+      "alternativas": ["Trigo importado", "Milho (flocão)", "Arroz", "Aveia"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-13",
+      "enunciado": "O 'pirarucu de casaca' é um prato à base de qual ingrediente principal?",
+      "alternativas": ["Carne de boi", "Frango", "Peixe (pirarucu) desfiado", "Camarão"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-14",
+      "enunciado": "O 'pequi' deve ser consumido com cuidado por causa de qual característica do caroço?",
+      "alternativas": ["É muito ácido", "É venenoso", "Tem espinhos finos sob a polpa", "É muito duro"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-15",
+      "enunciado": "O 'tacacá' combina tucupi, jambu, camarão seco e qual goma?",
+      "alternativas": ["Goma de tapioca", "Amido de milho", "Farinha de trigo", "Polvilho azedo"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-16",
+      "enunciado": "A 'comida de santo' do candomblé inclui o acarajé, ofertado especialmente a qual orixá?",
+      "alternativas": ["Oxalá", "Iansã (Oyá)", "Xangô", "Nanã"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-17",
+      "enunciado": "O 'baião de dois' é um prato que mistura, em uma só panela, arroz e o quê?",
+      "alternativas": ["Macarrão", "Lentilha", "Feijão (verde)", "Grão-de-bico"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-18",
+      "enunciado": "A 'rapadura' e o 'melado' são derivados do processamento de qual cultura?",
+      "alternativas": ["Cana-de-açúcar", "Milho", "Mandioca", "Coco"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-19",
+      "enunciado": "O 'sururu', muito usado em pratos de Alagoas, é um tipo de quê?",
+      "alternativas": ["Peixe", "Molusco (mariscos)", "Crustáceo grande", "Alga"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-20",
+      "enunciado": "O 'leitão à pururuca' tem a pele estourada e crocante graças a quê?",
+      "alternativas": ["Ao forno baixo por horas", "Ao congelamento", "À banha/óleo bem quente jogado sobre a pele", "Ao tempero com limão"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-21",
+      "enunciado": "A 'feijoada' carioca é tradicionalmente feita com qual tipo de feijão?",
+      "alternativas": ["Preto", "Carioca", "Branco", "Fradinho"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-22",
+      "enunciado": "O 'vatapá' e o 'caruru' são pratos da culinária afro-baiana servidos junto a qual outra iguaria?",
+      "alternativas": ["Feijoada", "Acarajé", "Churrasco", "Polenta"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-23",
+      "enunciado": "A 'tapioca' era um alimento já preparado por quais povos antes da colonização?",
+      "alternativas": ["Africanos", "Europeus", "Indígenas", "Árabes"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-24",
+      "enunciado": "O 'tambaqui' e o 'pirarucu' são peixes característicos de qual bacia?",
+      "alternativas": ["Bacia do Prata", "Bacia do Paraná", "Bacia do São Francisco", "Bacia Amazônica"],
+      "correta": 3
+    },
+    {
+      "id": "cul-f4-25",
+      "enunciado": "O 'queijo de coalho' é tão firme que pode ser assado sem derreter por completo, sendo típico de qual região?",
+      "alternativas": ["Nordeste", "Sul", "Sudeste", "Centro-Oeste"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-26",
+      "enunciado": "A 'paçoca de pilão' (de carne seca) é feita socando a carne com qual acompanhamento?",
+      "alternativas": ["Arroz", "Farinha de mandioca", "Milho", "Feijão"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-27",
+      "enunciado": "O 'mungunzá' salgado (com carne) é uma variação típica de qual região?",
+      "alternativas": ["Sul", "Sudeste", "Nordeste", "Norte"],
+      "correta": 2
+    },
+    {
+      "id": "cul-f4-28",
+      "enunciado": "O 'arroz de cuxá' maranhense leva a folha da vinagreira junto com gergelim e o quê?",
+      "alternativas": ["Camarão seco", "Carne de bode", "Bacalhau", "Frango assado"],
+      "correta": 0
+    },
+    {
+      "id": "cul-f4-29",
+      "enunciado": "O 'churrasco' gaúcho tradicional valoriza qual corte assado lentamente na brasa?",
+      "alternativas": ["Filé-mignon", "Costela (de chão)", "Picanha apenas", "Maminha"],
+      "correta": 1
+    },
+    {
+      "id": "cul-f4-30",
+      "enunciado": "A 'farofa de banana' e a 'farofa de ovo' têm como base comum o quê?",
+      "alternativas": ["Farinha de trigo", "Fubá", "Farinha de mandioca", "Aveia"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f4-01",
+      "enunciado": "Quem foi o primeiro governador-geral do Brasil, em 1549?",
+      "alternativas": ["Tomé de Sousa", "Martim Afonso de Sousa", "Mem de Sá", "Duarte da Costa"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f4-02",
+      "enunciado": "Qual conde holandês administrou o Nordeste brasileiro, modernizando o Recife?",
+      "alternativas": ["Guilherme de Orange", "Maurício de Nassau", "Piet Heyn", "Johan Maurits Jr."],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-03",
+      "enunciado": "A cobrança forçada e violenta de impostos atrasados sobre o ouro era chamada de...",
+      "alternativas": ["Quinto", "Capitação", "Derrama", "Dízimo"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f4-04",
+      "enunciado": "Qual bandeirante era conhecido pela alcunha de \"Anhanguera\" (diabo velho)?",
+      "alternativas": ["Domingos Jorge Velho", "Fernão Dias", "Raposo Tavares", "Bartolomeu Bueno da Silva"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f4-05",
+      "enunciado": "Em que ano Tiradentes foi enforcado, tornando-se mártir da Inconfidência?",
+      "alternativas": ["1792", "1789", "1808", "1822"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f4-06",
+      "enunciado": "Em 1815, o Brasil foi elevado à categoria de Reino, formando o \"Reino Unido de Portugal, Brasil e...\"?",
+      "alternativas": ["Açores", "Algarves", "Madeira", "Índias"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-07",
+      "enunciado": "Qual imperatriz teve papel decisivo na articulação política da Independência do Brasil?",
+      "alternativas": ["Imperatriz Teresa Cristina", "Imperatriz Leopoldina", "Princesa Isabel", "Carlota Joaquina"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-08",
+      "enunciado": "Qual era o nome do presidente do Paraguai durante a Guerra do Paraguai?",
+      "alternativas": ["Solano López", "José Artigas", "Carlos Antonio López", "Bernardino Caballero"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f4-09",
+      "enunciado": "A vinda da Corte portuguesa, em 1808, levou à abertura dos portos brasileiros às nações...",
+      "alternativas": ["Inimigas", "Amigas", "Africanas", "Asiáticas"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-10",
+      "enunciado": "Qual militar positivista teve papel decisivo na Proclamação da República, em 1889?",
+      "alternativas": ["Duque de Caxias", "Floriano Peixoto", "Benjamin Constant", "Marechal Rondon"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f4-11",
+      "enunciado": "A primeira ferrovia do Brasil, inaugurada em 1854, foi obra de qual empreendedor?",
+      "alternativas": ["Visconde de Mauá (Barão de Mauá)", "Barão do Rio Branco", "Conde d'Eu", "Visconde do Rio Branco"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f4-12",
+      "enunciado": "A Insurreição Pernambucana, que expulsou os holandeses do Brasil, terminou em que ano?",
+      "alternativas": ["1500", "1654", "1789", "1822"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-13",
+      "enunciado": "O lema de governo \"50 anos em 5\", com o Plano de Metas, foi de qual presidente?",
+      "alternativas": ["Getúlio Vargas", "Jânio Quadros", "Juscelino Kubitschek", "João Goulart"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f4-14",
+      "enunciado": "O regime militar brasileiro durou de 1964 até qual ano?",
+      "alternativas": ["1979", "1982", "1988", "1985"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f4-15",
+      "enunciado": "Quem foi o último presidente civil da República Velha, deposto pela Revolução de 1930?",
+      "alternativas": ["Washington Luís", "Artur Bernardes", "Epitácio Pessoa", "Hermes da Fonseca"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f4-16",
+      "enunciado": "A capital do Brasil já foi Salvador e depois passou a ser qual cidade, em 1763?",
+      "alternativas": ["São Paulo", "Rio de Janeiro", "Recife", "Belo Horizonte"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-17",
+      "enunciado": "A revolta de 1720, em Vila Rica, liderada por Filipe dos Santos, foi contra o quê?",
+      "alternativas": ["A escravidão", "A vacinação", "As Casas de Fundição e os impostos sobre o ouro", "A monarquia"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f4-18",
+      "enunciado": "Qual revolta ocorreu no Maranhão em 1684, contra o monopólio comercial de uma companhia?",
+      "alternativas": ["Balaiada", "Cabanagem", "Sabinada", "Revolta de Beckman"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f4-19",
+      "enunciado": "Quem comandou a expulsão dos franceses do Rio de Janeiro (França Antártica) no século XVI?",
+      "alternativas": ["Mem de Sá / Estácio de Sá", "Tomé de Sousa", "Martim Afonso", "Duarte Coelho"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f4-20",
+      "enunciado": "Qual era o nome do plano econômico do governo Sarney que congelou preços em 1986?",
+      "alternativas": ["Plano Real", "Plano Cruzado", "Plano Collor", "Plano Verão"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-21",
+      "enunciado": "O Marechal Cândido Rondon é lembrado por seu trabalho com quem, além de instalar linhas telegráficas?",
+      "alternativas": ["Os escravizados", "Os imigrantes", "Os povos indígenas", "Os operários"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f4-22",
+      "enunciado": "A \"Questão Religiosa\" e a \"Questão Militar\", que enfraqueceram a monarquia, ocorreram no final de qual período?",
+      "alternativas": ["Período colonial", "Primeiro Reinado", "Período Regencial", "Segundo Reinado (Império)"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f4-23",
+      "enunciado": "Qual jornalista e político baiano participou da Confederação do Equador e foi fuzilado?",
+      "alternativas": ["Frei Caneca", "Cipriano Barata", "Rui Barbosa", "Castro Alves"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f4-24",
+      "enunciado": "Quem foi o líder civil da Revolução de 1930 que se tornaria a principal figura política por décadas?",
+      "alternativas": ["Washington Luís", "Getúlio Vargas", "Júlio Prestes", "Assis Brasil"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-25",
+      "enunciado": "Qual escritor abolicionista e poeta ficou conhecido como o \"Poeta dos Escravos\"?",
+      "alternativas": ["Gonçalves Dias", "Olavo Bilac", "Castro Alves", "Cruz e Sousa"],
+      "correta": 2
+    },
+    {
+      "id": "hb2-f4-26",
+      "enunciado": "Qual foi a primeira atividade que sustentou a economia da colônia antes da cana-de-açúcar?",
+      "alternativas": ["A mineração", "O café", "O algodão", "A extração do pau-brasil"],
+      "correta": 3
+    },
+    {
+      "id": "hb2-f4-27",
+      "enunciado": "Qual cidade amazônica teve grande riqueza no \"ciclo da borracha\", construindo um famoso teatro?",
+      "alternativas": ["Manaus", "Belém", "Porto Velho", "Rio Branco"],
+      "correta": 0
+    },
+    {
+      "id": "hb2-f4-28",
+      "enunciado": "Qual foi o nome do acordo de 1750 que substituiu Tordesilhas, definindo fronteiras pelo \"uti possidetis\"?",
+      "alternativas": ["Tratado de Petrópolis", "Tratado de Madri", "Tratado de Badajoz", "Tratado de Utrecht"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-29",
+      "enunciado": "Quem foi o regente que governou o Brasil de forma autoritária no período regencial (o \"Regresso\")?",
+      "alternativas": ["Diogo Feijó", "Pedro de Araújo Lima (Marquês de Olinda)", "José Bonifácio", "Evaristo da Veiga"],
+      "correta": 1
+    },
+    {
+      "id": "hb2-f4-30",
+      "enunciado": "A \"Revolução Praieira\" (1848), última revolta do período regencial/imperial, ocorreu em qual província?",
+      "alternativas": ["Pernambuco", "Bahia", "Maranhão", "Pará"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-01",
+      "enunciado": "Qual artigo da Constituição de 1988 lista os direitos e deveres individuais e coletivos?",
+      "alternativas": ["Artigo 5º", "Artigo 1º", "Artigo 100", "Artigo 50"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-02",
+      "enunciado": "A iniciativa popular permite apresentar um projeto de lei com assinaturas de qual proporção do eleitorado?",
+      "alternativas": ["10%", "1% do eleitorado nacional", "50%", "5%"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f4-03",
+      "enunciado": "O que é o \"quórum\" em uma votação legislativa?",
+      "alternativas": ["O placar final", "O líder do partido", "O número mínimo de presentes para deliberar", "O tempo de fala"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f4-04",
+      "enunciado": "A Constituição define o Brasil como um \"Estado Democrático de...\"?",
+      "alternativas": ["Bem-estar", "Mercado", "Exceção", "Direito"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f4-05",
+      "enunciado": "A Lei da Ficha Limpa (2010) trata principalmente de quê?",
+      "alternativas": ["Inelegibilidade de candidatos com certas condenações", "Limpeza urbana", "Transparência fiscal", "Reciclagem"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-06",
+      "enunciado": "Quem chefia o Ministério Público da União?",
+      "alternativas": ["O presidente do STF", "O Procurador-Geral da República (PGR)", "O ministro da Justiça", "O Advogado-Geral da União"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f4-07",
+      "enunciado": "As leis LDO e LOA tratam de qual assunto?",
+      "alternativas": ["Educação", "Saúde", "Orçamento público", "Segurança"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f4-08",
+      "enunciado": "Qual recurso constitucional garante o acesso de uma pessoa às informações que o governo tem sobre ela?",
+      "alternativas": ["Habeas corpus", "Mandado de segurança", "Ação popular", "Habeas data"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f4-09",
+      "enunciado": "A sabatina no Senado é um procedimento usado para quê?",
+      "alternativas": ["Aprovar indicações (como ministros do STF e embaixadores)", "Votar o orçamento", "Eleger o presidente da Casa", "Cassar mandatos"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-10",
+      "enunciado": "A \"imunidade parlamentar\" protege deputados e senadores em relação a quê?",
+      "alternativas": ["A pagar impostos", "A suas opiniões e votos no exercício do mandato", "A multas de trânsito", "A qualquer crime sempre"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f4-11",
+      "enunciado": "Quem é responsável por aprovar (ou rejeitar) o orçamento público federal?",
+      "alternativas": ["O STF", "O presidente sozinho", "O Congresso Nacional", "O Banco Central"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f4-12",
+      "enunciado": "O Procurador-Geral da República é nomeado por quem?",
+      "alternativas": ["Pelo STF", "Pelo Congresso", "Por concurso", "Pelo presidente, após aprovação do Senado"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f4-13",
+      "enunciado": "A 'maioria simples' (ou relativa) é calculada com base em quê?",
+      "alternativas": ["Nos presentes na sessão", "No total de membros da casa", "Em 2/3 dos membros", "Em 60% dos membros"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-14",
+      "enunciado": "Qual instrumento é usado para alterar (reformar) a Constituição?",
+      "alternativas": ["Decreto presidencial", "Emenda Constitucional (via PEC)", "Lei ordinária", "Medida provisória"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f4-15",
+      "enunciado": "O número de vereadores de uma cidade é definido de acordo com o quê?",
+      "alternativas": ["A área do município", "A riqueza local", "A população do município", "A vontade do prefeito"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f4-16",
+      "enunciado": "Qual ação judicial pode ser proposta por qualquer cidadão para anular ato lesivo ao patrimônio público?",
+      "alternativas": ["Mandado de segurança", "Habeas corpus", "Reclamação", "Ação popular"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f4-17",
+      "enunciado": "O sistema eleitoral proporcional brasileiro para deputados usa qual tipo de lista?",
+      "alternativas": ["Lista aberta (o eleitor escolhe o candidato)", "Lista fechada", "Sem lista", "Lista por sorteio"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-18",
+      "enunciado": "O princípio do \"devido processo legal\" garante o quê a um acusado?",
+      "alternativas": ["Que ele será condenado", "Direito à ampla defesa e ao contraditório", "Imunidade total", "Julgamento secreto"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f4-19",
+      "enunciado": "A separação de poderes em Executivo, Legislativo e Judiciário foi teorizada por qual pensador?",
+      "alternativas": ["Karl Marx", "Adam Smith", "Montesquieu", "Maquiavel"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f4-20",
+      "enunciado": "Como é chamada a consulta popular feita ANTES de um ato, para que o povo o autorize?",
+      "alternativas": ["Referendo", "Impeachment", "Sabatina", "Plebiscito"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f4-21",
+      "enunciado": "Como é chamada a consulta popular feita DEPOIS de um ato, para que o povo o ratifique?",
+      "alternativas": ["Referendo", "Plebiscito", "Recall", "Veto popular"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-22",
+      "enunciado": "Qual é a função típica do Poder Legislativo?",
+      "alternativas": ["Administrar o país", "Elaborar leis e fiscalizar o Executivo", "Julgar processos", "Comandar o Exército"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f4-23",
+      "enunciado": "A Constituição de 1988 possui aproximadamente quantos artigos (parte permanente)?",
+      "alternativas": ["Cerca de 50", "Cerca de 100", "Mais de 250", "Cerca de 1.000"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f4-24",
+      "enunciado": "Qual ato normativo é editado pelo Congresso para regular matérias de sua competência exclusiva?",
+      "alternativas": ["Portaria", "Súmula", "Medida provisória", "Decreto legislativo"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f4-25",
+      "enunciado": "Os tribunais de contas (como o TCU) auxiliam diretamente qual poder na fiscalização?",
+      "alternativas": ["O Legislativo", "O Executivo", "O Judiciário", "O Ministério Público"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-26",
+      "enunciado": "Qual cláusula pétrea protege o modelo de organização do Estado brasileiro?",
+      "alternativas": ["O voto censitário", "A forma federativa de Estado", "O parlamentarismo", "A pena de morte"],
+      "correta": 1
+    },
+    {
+      "id": "pol-f4-27",
+      "enunciado": "O voto em branco e o voto nulo, atualmente, são computados de que forma?",
+      "alternativas": ["Vão para o primeiro colocado", "Vão para o governo", "Não são atribuídos a nenhum candidato", "Anulam a eleição"],
+      "correta": 2
+    },
+    {
+      "id": "pol-f4-28",
+      "enunciado": "Qual órgão é responsável pela representação judicial e consultoria jurídica da União?",
+      "alternativas": ["O Ministério Público", "A Defensoria Pública", "O STF", "A Advocacia-Geral da União (AGU)"],
+      "correta": 3
+    },
+    {
+      "id": "pol-f4-29",
+      "enunciado": "A primeira Constituição da história do Brasil, de 1824, foi de que tipo?",
+      "alternativas": ["Outorgada (imposta) por Dom Pedro I", "Aprovada por plebiscito", "Elaborada pelo povo", "Importada de Portugal"],
+      "correta": 0
+    },
+    {
+      "id": "pol-f4-30",
+      "enunciado": "Em uma República, diferentemente de uma monarquia, os governantes são, em regra...",
+      "alternativas": ["Hereditários e vitalícios", "Eleitos para mandatos temporários", "Indicados pela igreja", "Escolhidos por sorteio"],
       "correta": 1
     }
   ]

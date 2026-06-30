@@ -51,8 +51,32 @@ Todas as perguntas ficam em um único arquivo:
 src/data/questions.json
 ```
 
-O conteúdo atual é **placeholder fictício** (5 por fase) só para o app funcionar.
-Substitua livremente — quantidade, temas e detalhes ficam a seu critério.
+O arquivo já vem populado com um **banco grande pronto para jogar**: cerca de
+**3.960 perguntas reais**, sendo **990 por fase** (1 a 4, por dificuldade),
+distribuídas em **33 temas** (Geografia, História, Ciências, Português,
+Matemática, Atualidades, Cinema, Séries, Música, Games, Quadrinhos, Memes,
+Esportes, Anos 80/90/2000, Propagandas, Programas de TV, Gírias, Comidas,
+Marcas, Mitologia, Astronomia, Animais, Invenções, Arte, Vinhos, Etimologia,
+Recordes, Folclore, Regionalismos, Música brasileira por década, Culinária
+regional, História do Brasil e Política). Substitua/edite livremente.
+
+> **Atenção (revisão recomendada):** alguns temas dependem do meu corte de
+> conhecimento e/ou de atribuições nostálgicas brasileiras, e merecem revisão
+> antes de publicar: **Atualidades** (datável), **Propagandas/jingles** e
+> **Programas de TV clássicos** (atribuições que podem ter imprecisões pontuais).
+
+### Convenção do `id` (prefixo de tema)
+
+Cada pergunta tem um `id` no formato **`tema-fFASE-NN`** (ex.: `geo-f1-01`,
+`cin-f4-30`). O prefixo identifica o tema, então dá para **filtrar por assunto
+sem nenhum campo extra**, por exemplo `id.startsWith('geo-')`. Se você quiser
+implementar "escolher o tema na tela" depois, basta usar esse prefixo (ou
+adicionar um campo `tema`). **Se for substituir as perguntas, mantenha o padrão
+de prefixo** caso queira preservar essa possibilidade de filtro.
+
+Os prefixos são: `geo his cie por mat atu` (gerais) · `cin ser mus gam hqs mem
+esp` (cultura pop) · `ano pro tv gir com mar` (boteco) · `mit ast ani inv art vin
+eti rec` (nicho) · `fol reg mbd cul hb2 pol` (Brasil).
 
 ### Esquema do JSON
 
