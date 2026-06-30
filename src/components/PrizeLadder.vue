@@ -81,6 +81,9 @@ watch(level, async (next, prev) => {
 
 <style scoped>
 .ladder {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
   padding: var(--space-4);
   width: 100%;
   border-color: var(--gold-border);
@@ -145,7 +148,8 @@ watch(level, async (next, prev) => {
   display: flex;
   flex-direction: column;
   gap: var(--space-1);
-  max-height: calc(100vh - 9rem);
+  flex: 1 1 auto;
+  min-height: 0;
   overflow-y: auto;
   scrollbar-width: thin;
 }

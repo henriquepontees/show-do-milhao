@@ -14,6 +14,13 @@ const currentQuestion = ref(null)
 const currentPhase = ref(null)
 // Fase cuja oferta de perguntas se esgotou na sessão (mostra aviso na tela de fase).
 const exhaustedPhase = ref(null)
+// Altura da grade de fases (medida em PhaseSelect): o card de prêmio casa essa
+// altura, para terminar exatamente na base dos cards de fase.
+const ladderHeight = ref(null)
+
+function onMeasure(height) {
+  ladderHeight.value = height
+}
 
 function onSelectPhase(phase) {
   const question = drawQuestion(phase)
@@ -57,6 +64,7 @@ function onReset() {
           :exhausted-phase="exhaustedPhase"
           @select="onSelectPhase"
           @reset="onReset"
+          @measure="onMeasure"
         />
 
         <QuestionView
@@ -66,11 +74,15 @@ function onReset() {
           :phase="currentPhase"
           @back="backToPhases"
           @continue="backToPhases"
+          @measure="onMeasure"
         />
       </Transition>
     </main>
 
-    <PrizeLadder class="side" />
+    <PrizeLadder
+      class="side"
+      :style="ladderHeight ? { '--ladder-h': ladderHeight + 'px' } : {}"
+    />
   </div>
 </template>
 
@@ -125,8 +137,10 @@ function onReset() {
 }
 
 .side {
-  position: sticky;
-  top: var(--space-4);
+  /* Casa a altura da grade de fases (medida em PhaseSelect) — o card termina
+     exatamente na base dos cards de fase e a lista de prêmios rola por dentro.
+     Sem a medida (1º render), cai para auto. */
+  height: var(--ladder-h, auto);
 }
 
 @media (max-width: 820px) {
@@ -136,7 +150,7 @@ function onReset() {
   }
 
   .side {
-    position: static;
+    height: auto;
     order: -1;
   }
 }

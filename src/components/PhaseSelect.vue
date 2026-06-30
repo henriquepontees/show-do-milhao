@@ -1,4 +1,5 @@
 <script setup>
+import { onBeforeUnmount, onMounted, ref } from 'vue'
 import { burstAt } from '../composables/useConfetti.js'
 
 defineProps({
@@ -9,7 +10,24 @@ defineProps({
   },
 })
 
-const emit = defineEmits(['select', 'reset'])
+const emit = defineEmits(['select', 'reset', 'measure'])
+
+// Mede a altura da grade de fases e emite, para que o card de prêmio
+// (em outro componente) possa casar exatamente essa altura.
+const phasesEl = ref(null)
+let resizeObserver = null
+
+onMounted(() => {
+  if (!phasesEl.value) return
+  resizeObserver = new ResizeObserver(() => {
+    if (phasesEl.value) emit('measure', phasesEl.value.offsetHeight)
+  })
+  resizeObserver.observe(phasesEl.value)
+})
+
+onBeforeUnmount(() => {
+  resizeObserver?.disconnect()
+})
 
 const phases = [
   { id: '1', label: 'Fase 1', hint: 'Fácil' },
@@ -50,7 +68,7 @@ function onReset() {
 
 <template>
   <section class="phase-select">
-    <div class="phases">
+    <div ref="phasesEl" class="phases">
       <button
         v-for="(phase, i) in phases"
         :key="phase.id"
